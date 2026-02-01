@@ -1,0 +1,5490 @@
+[
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 9.97899613926E11,
+    "razaoSocial": "BRADESCO SAÚDE S.A."
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 8.76605414149E11,
+    "razaoSocial": "SUL AMERICA COMPANHIA DE SEGURO SAÚDE"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.87581567296E11,
+    "razaoSocial": "AMIL ASSISTÊNCIA MÉDICA INTERNACIONAL S.A."
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.47015671014E11,
+    "razaoSocial": "NOTRE DAME INTERMÉDICA SAÚDE S.A."
+  },
+  {
+    "uf": "CE",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.78431690186E11,
+    "razaoSocial": "HAPVIDA ASSISTENCIA MEDICA S.A."
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.03821159494E11,
+    "razaoSocial": "CAIXA BENEFICENTE DOS FUNCIONARIOS DO BANCO DO EST"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.01458189424E11,
+    "razaoSocial": "UNIMED BELO HORIZONTE COOPERATIVA DE TRABALHO MÉDI"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.88284591751E11,
+    "razaoSocial": "UNIMED NACIONAL - COOPERATIVA CENTRAL"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.72875599495E11,
+    "razaoSocial": "PORTO SEGURO - SEGURO SAÚDE S/A"
+  },
+  {
+    "uf": "DF",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.68091554151E11,
+    "razaoSocial": "CAIXA DE ASSISTÊNCIA DOS FUNCIONÁRIOS DO BANCO DO "
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.41946429722E11,
+    "razaoSocial": "UNIMED SEGUROS SAÚDE S/A"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.36528610334E11,
+    "razaoSocial": "UNIMED DO EST. DO RJ FEDERAÇÃO EST. DAS COOPERATIV"
+  },
+  {
+    "uf": "DF",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.33614425943E11,
+    "razaoSocial": "GEAP AUTOGESTÃO EM SAÚDE"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.23280986036E11,
+    "razaoSocial": "PREVENT SENIOR PRIVATE OPERADORA DE SAÚDE LTDA"
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.07381942222E11,
+    "razaoSocial": "UNIMED PORTO ALEGRE - COOPERATIVA MÉDICA LTDA."
+  },
+  {
+    "uf": "CE",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 9.308881594E10,
+    "razaoSocial": "CLINIPAM CLINICA PARANAENSE DE ASSISTENCIA MEDICA "
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 8.5937718859E10,
+    "razaoSocial": "UNIMED CURITIBA - SOCIEDADE COOPERATIVA DE MÉDICOS"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.6617206696E10,
+    "razaoSocial": "CARE PLUS MEDICINA ASSISTENCIAL LTDA."
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.4946109759E10,
+    "razaoSocial": "UNIMED CAMPINAS - COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "CE",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.5880696668E10,
+    "razaoSocial": "UNIMED DE FORTALEZA SOCIEDADE COOPERATIVA MÉDICA L"
+  },
+  {
+    "uf": "GO",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.4772936702E10,
+    "razaoSocial": "SERV  SOCIAL AUTÔNOMO DE ASSIST À SAÚDE DOS SERV P"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.0595551791E10,
+    "razaoSocial": "OMINT SERVIÇOS DE SAÚDE S.A."
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.0038463213E10,
+    "razaoSocial": "FUNDAÇÃO SAÚDE ITAÚ"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.8880808402E10,
+    "razaoSocial": "ODONTOPREV S/A"
+  },
+  {
+    "uf": "GO",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.6169268483E10,
+    "razaoSocial": "UNIMED GOIANIA COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "ES",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.4793193133E10,
+    "razaoSocial": "SAMEDIL SERVIÇOS DE ATENDIMENTO MÉDICO S/A"
+  },
+  {
+    "uf": "ES",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.3504836003E10,
+    "razaoSocial": "UNIMED VITORIA COOPERATIVA DE TRABALHO MEDICO"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.3472895167E10,
+    "razaoSocial": "ITAUSEG SAÚDE S.A."
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.9100443036E10,
+    "razaoSocial": "FUNDAÇÃO CESP"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.6104685651E10,
+    "razaoSocial": "UNIMED DO ESTADO DE SÃO PAULO - FEDERAÇÃO ESTADUAL"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.5924096145E10,
+    "razaoSocial": "SUL AMÉRICA PARANÁ CLÍNICAS SERVIÇOS DE SAÚDE S.A."
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.4243930824E10,
+    "razaoSocial": "GRUPO HOSPITALAR DO RIO DE JANEIRO LTDA"
+  },
+  {
+    "uf": "PI",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.2938094357E10,
+    "razaoSocial": "HUMANA SAÚDE NORDESTE LTDA. "
+  },
+  {
+    "uf": "PE",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.0692204298E10,
+    "razaoSocial": "UNIMED RECIFE COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.8171531893E10,
+    "razaoSocial": "QUALICORP ADMINISTRADORA DE BENEFÍCIOS S.A."
+  },
+  {
+    "uf": "SC",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.7954237153E10,
+    "razaoSocial": "UNIMED GRANDE FLORIANÓPOLIS-COOPERATIVA DE TRABALH"
+  },
+  {
+    "uf": "PA",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.506872673E10,
+    "razaoSocial": "UNIMED BELÉM COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.4478028728E10,
+    "razaoSocial": "UNIMED SAO JOSÉ DO RIO PRETO - COOP. DE TRABALHO M"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.3679313133E10,
+    "razaoSocial": "FUNDAÇÃO SÃO FRANCISCO XAVIER"
+  },
+  {
+    "uf": "RN",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.3282316654E10,
+    "razaoSocial": "UNIMED NATAL SOC. COOP. DE TRAB. MÉDICO"
+  },
+  {
+    "uf": "CE",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.2504535777E10,
+    "razaoSocial": "NOTRE DAME INTERMÉDICA MINAS GERAIS SAÚDE S.A."
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.2125864049E10,
+    "razaoSocial": "UNIMED SOROCABA COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.210648457E10,
+    "razaoSocial": "UNIMED DE LONDRINA COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.0963385148E10,
+    "razaoSocial": "SANTA HELENA ASSISTÊNCIA MÉDICA S/A."
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.0191886591E10,
+    "razaoSocial": "UNIMED SERRA GAUCHA/RS COOPERATIVA DE ASSISTENCIA "
+  },
+  {
+    "uf": "ES",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.9994758611E10,
+    "razaoSocial": "SAMP ESPIRITO SANTO ASSISTENCIA MEDICA SA"
+  },
+  {
+    "uf": "MT",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.9450715984E10,
+    "razaoSocial": "UNIMED CUIABA COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "MS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.9010616652E10,
+    "razaoSocial": "CAIXA DE ASSISTENCIA DOS SERVIDORES DO ESTADO DE M"
+  },
+  {
+    "uf": "DF",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.8036620927E10,
+    "razaoSocial": "FUNDAÇÃO ASSISTENCIAL DOS SERVIDORES DO MINISTÉRIO"
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.6784114261E10,
+    "razaoSocial": "UNIMED REGIONAL MARINGÁ COOP.DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.5388335423E10,
+    "razaoSocial": "ASSOCIAÇÃO PETROBRAS DE SAÚDE - APS"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.5236209392E10,
+    "razaoSocial": "UNIMED-SÃO GONÇALO - NITERÓI - SOC.COOP.SERV.MED E"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.4767012256E10,
+    "razaoSocial": "UNIMED DE BAURU COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "AL",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.4552866873E10,
+    "razaoSocial": "UNIMED MACEIO COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.4389112349E10,
+    "razaoSocial": "BRADESCO SAÚDE - OPERADORA DE PLANOS  S/A"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.4088311391E10,
+    "razaoSocial": "UNIMED DE RIBEIRAO PRETO - COOPERATIVA DE TRABALHO"
+  },
+  {
+    "uf": "MS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.3601635408E10,
+    "razaoSocial": "UNIMED CAMPO GRANDE MS COOPERATIVA DE TRABALHO MÉD"
+  },
+  {
+    "uf": "PB",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.336295419E10,
+    "razaoSocial": "UNIMED JOAO PESSOA - COOPERATIVA DE TRABALHO MÉDIC"
+  },
+  {
+    "uf": "SC",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.3051853404E10,
+    "razaoSocial": "UNIMED LITORAL COOPERATIVA DE TRABALHO MÉDICO LTDA"
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.2938811914E10,
+    "razaoSocial": "UNIMED DO ESTADO DO PARANÁ FEDERAÇÃO ESTADUAL DAS "
+  },
+  {
+    "uf": "DF",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.2740307527E10,
+    "razaoSocial": "SINDIFISCO NACIONAL - SINDICATO NACIONAL DOS AUDIT"
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.2238376003E10,
+    "razaoSocial": "CAIXA DE ASSISTÊNCIA DOS EMPREGADOS DO BANCO DO ES"
+  },
+  {
+    "uf": "SC",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.1736280964E10,
+    "razaoSocial": "UNIMED DO ESTADO DE SANTA CATARINA FED. EST. DAS C"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.1090793316E10,
+    "razaoSocial": "ASSOCIAÇÃO DE BENEFICÊNCIA E FILANTROPIA SÃO CRIST"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.1057191242E10,
+    "razaoSocial": "UNIMED DE SANTOS COOP DE TRAB MEDICO"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.0387275578E10,
+    "razaoSocial": "CENTRO TRASMONTANO DE SAO PAULO"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.0118131907E10,
+    "razaoSocial": "UNIMED DO BRASIL - CONF. NACIONAL DAS COOPERATIVAS"
+  },
+  {
+    "uf": "SC",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.9956387694E10,
+    "razaoSocial": "UNIMED BLUMENAU - COOPERATIVA DE TRABALHO MEDICO"
+  },
+  {
+    "uf": "SC",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.9825707419E10,
+    "razaoSocial": "UNIMED DE JOINVILLE COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.9296340753E10,
+    "razaoSocial": "ASSOCIAÇÃO BENEFICENTE DOS PROFESSORES PÚBLICOS AT"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.9287111237E10,
+    "razaoSocial": "UNIMED DE PIRACICABA SOCIEDADE COOPERATIVA DE SERV"
+  },
+  {
+    "uf": "DF",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.9250932349E10,
+    "razaoSocial": "POSTAL SAÚDE CAIXA DE ASSISTÊNCIA E SAÚDE DOS EMPR"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.8470717783E10,
+    "razaoSocial": "CEMIG SAÚDE"
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.765722543E10,
+    "razaoSocial": "UNIMED VALE DO SINOS - COOPERATIVA DE ASSISTÊNCIA "
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.7422189839E10,
+    "razaoSocial": "UNIMED JUIZ DE FORA COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.7323004688E10,
+    "razaoSocial": "UNIMED DIVINOPOLIS - COOPERATIVA DE TRABALHO MEDIC"
+  },
+  {
+    "uf": "CE",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.7209706278E10,
+    "razaoSocial": "CENTRO CLÍNICO GAÚCHO LTDA"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.713787035E10,
+    "razaoSocial": "UNIMED UBERLÂNDIA COOPERATIVA REGIONAL TRABALHO MÉ"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.6658999707E10,
+    "razaoSocial": "H.B. SAÚDE S/A."
+  },
+  {
+    "uf": "SC",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.6255448375E10,
+    "razaoSocial": "UNIMED CHAPECÓ - COOPERATIVA DE TRABALHO MÉDICO DA"
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.6214284654E10,
+    "razaoSocial": "UNIMED DE CASCAVEL COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.6053763174E10,
+    "razaoSocial": "UNIMED - COOPERATIVA DE SERVIÇOS DE SAÚDE DOS VALE"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.5756342628E10,
+    "razaoSocial": "UNIMED SAO JOSE DOS CAMPOS - COOPERATIVA DE TRABAL"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.5637145846E10,
+    "razaoSocial": "UNIMED NOVA IGUACU COOPERATIVA DE TRABALHO MEDICO"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.5555467671E10,
+    "razaoSocial": "SERVIÇO SOCIAL DA INDÚSTRIA DO PAPEL, PAPELÃO E CO"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.5220032916E10,
+    "razaoSocial": "UNIMED DE VOLTA REDONDA COOPERATIVA DE TRABALHO MÉ"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.5049511034E10,
+    "razaoSocial": "LEVE SAUDE OPERADORA DE PLANOS DE SAUDE S.A"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.4555776272E10,
+    "razaoSocial": "PASA - PLANO DE ASSISTENCIA A SAUDE DO APOSENTADO "
+  },
+  {
+    "uf": "PI",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.4452105577E10,
+    "razaoSocial": "UNIMED TERESINA - COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.388269939E10,
+    "razaoSocial": "UNIMED DE MACAÉ COOPERATIVA DE ASSISTÊNCIA À SAÚDE"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.3783161102E10,
+    "razaoSocial": "UNIMED SÃO CARLOS - COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "ES",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.3741618111E10,
+    "razaoSocial": "UNIMED SUL CAPIXABA COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.3633101396E10,
+    "razaoSocial": "UNIMED DE PRESIDENTE PRUDENTE COOPERATIVA DE TRAB."
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.3474992456E10,
+    "razaoSocial": "ALICE OPERADORA LTDA."
+  },
+  {
+    "uf": "CE",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.335285401E10,
+    "razaoSocial": "CAIXA DE ASSISTÊNCIA DOS FUNCIONÁRIOS DO BANCO DO "
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.2951853656E10,
+    "razaoSocial": "HUMANA SAÚDE LTDA."
+  },
+  {
+    "uf": "SE",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.2919078679E10,
+    "razaoSocial": "UNIMED SERGIPE - COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.2591972992E10,
+    "razaoSocial": "ECONOMUS INSTITUTO DE SEGURIDADE SOCIAL"
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.2180633861E10,
+    "razaoSocial": "FUNDAÇÃO DE SAÚDE ITAIGUAPY"
+  },
+  {
+    "uf": "SC",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.2111452543E10,
+    "razaoSocial": "UNIMED DE CRICIÚMA COOPERATIVA DE TRABALHO MÉDICO "
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.1823041139E10,
+    "razaoSocial": "ASSOCIAÇÃO SANTA SAÚDE"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.1775092818E10,
+    "razaoSocial": "COOPERATIVA DE TRABALHO MÉDICO DE POUSO ALEGRE"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.1737311197E10,
+    "razaoSocial": "UNIMED JUNDIAI - COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.1716619705E10,
+    "razaoSocial": "ASSOCIAÇÃO DR. BARTHOLOMEU TACCHINI"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.1590690584E10,
+    "razaoSocial": "UNIMED FRANCA - SOCIEDADE COOPERATIVA DE SERVIÇOS "
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.1589165285E10,
+    "razaoSocial": "UNIMED UBERABA COOPERATIVA DE TRABALHO MEDICO LTDA"
+  },
+  {
+    "uf": "PA",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.1433900591E10,
+    "razaoSocial": "ASSOCIAÇÃO ADVENTISTA NORTE BRASILEIRA DE PREVENÇÃ"
+  },
+  {
+    "uf": "AM",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.1209510561E10,
+    "razaoSocial": "UNIMED DE MANAUS COOP. DO TRABALHO MÉDICO LTDA"
+  },
+  {
+    "uf": "PE",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.0749956571E10,
+    "razaoSocial": "UNIMED CARUARU-COOPERATIVA DE TRABALHO MEDICO"
+  },
+  {
+    "uf": "MT",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.05567369E10,
+    "razaoSocial": "UNIMED NORTE DO MATO GROSSO COOPERATIVA DE TRABALH"
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.0476984922E10,
+    "razaoSocial": "FUNDAÇÃO COPEL DE PREVIDÊNCIA E ASSISTÊNCIA SOCIAL"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.0469156215E10,
+    "razaoSocial": "REAL GRANDEZA - FUNDAÇÃO DE PREVIDÊNCIA E ASSISTÊN"
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.0366572656E10,
+    "razaoSocial": "UNIMED PONTA GROSSA COOPERATIVA DE TRABALHO MEDICO"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.0132719066E10,
+    "razaoSocial": "MEDISERVICE OPERADORA DE PLANOS DE SAÚDE S.A."
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 9.931703259E9,
+    "razaoSocial": "INSTITUTO CURITIBA DE SAÚDE"
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 9.920450642E9,
+    "razaoSocial": "DOCTOR CLIN OPERADORA DE PLANOS DE SAÚDE LTDA."
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 9.874661496E9,
+    "razaoSocial": "HOSPITAL DE CLÍNICAS DE PASSO FUNDO"
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 9.855160766E9,
+    "razaoSocial": "UNIMED SANTA MARIA/RS - COOPERATIVA DE ASSISTÊNCIA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 9.59604354E9,
+    "razaoSocial": "UNIMED DE SANTA BÁRBARA D\u0027OESTE E AMERICANA - COOP"
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 9.555282601E9,
+    "razaoSocial": "CIRCULO OPERARIO CAXIENSE"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 9.538127916E9,
+    "razaoSocial": "FUNDACAO LEONOR DE BARROS CAMARGO"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 9.478491316E9,
+    "razaoSocial": "ASSOCIACAO DOS AUDITORES FISCAIS DA RECEITA ESTADU"
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 9.413436358E9,
+    "razaoSocial": "COOPERATIVA CENTRAL UNIMED DE COOPERATIVAS DE ASSI"
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 9.409830098E9,
+    "razaoSocial": "ASSOCIAÇÃO EVANGELICA BENEFICENTE DE LONDRINA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 9.307624811E9,
+    "razaoSocial": "PLANO HOSPITAL SAMARITANO LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 9.233504288E9,
+    "razaoSocial": "SOBAM CENTRO MÉDICO HOSPITALAR S.A."
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 9.175421991E9,
+    "razaoSocial": "UNIMED REGIONAL DA BAIXA MOGIANA - COOPERATIVA DE "
+  },
+  {
+    "uf": "PB",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 9.148214673E9,
+    "razaoSocial": "UNIMED CAMPINA GRANDE - COOPERATIVA DE TRABALHO ME"
+  },
+  {
+    "uf": "PE",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 9.136816353E9,
+    "razaoSocial": "UNIMED VALE DO SÃO FRANCISCO COOPERATIVA DE TRABAL"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 8.971902212E9,
+    "razaoSocial": "IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE PIRACIC"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 8.948869207E9,
+    "razaoSocial": "UNIMED DE ARARAQUARA - COOP. DE TRAB. MÉDICO"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 8.761948345E9,
+    "razaoSocial": "IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE PASSOS"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 8.729107464E9,
+    "razaoSocial": "ASSOCIAÇÃO SANTA CASA SAÚDE DE SÃO JOSÉ DOS CAMPOS"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 8.663776701E9,
+    "razaoSocial": "UNIMED DE MARILIA COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 8.486113198E9,
+    "razaoSocial": "SANTA CASA DE MISERICÓRDIA DE JUIZ DE FORA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 8.462448947E9,
+    "razaoSocial": "PLANO DE SAÚDE ANA COSTA LTDA."
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 8.425506525E9,
+    "razaoSocial": "UNIMED NOVA FRIBURGO-SOC.COOP.SERV.MED.HOSP.LTDA."
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 8.348262966E9,
+    "razaoSocial": "UNIMED DE GUARULHOS COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 8.234408261E9,
+    "razaoSocial": "CAIXA DE ASSISTÊNCIA À SAÚDE - CABERJ"
+  },
+  {
+    "uf": "AM",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 8.143483741E9,
+    "razaoSocial": "SAMEL PLANO DE SAÚDE LTDA"
+  },
+  {
+    "uf": "MS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 8.139281948E9,
+    "razaoSocial": "UNIMED DE DOURADOS COOPERATIVA DE TRABALHO MÉDICO "
+  },
+  {
+    "uf": "MT",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.867384145E9,
+    "razaoSocial": "UNIMED RONDONOPOLIS COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "CE",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.845391524E9,
+    "razaoSocial": "UNIMED DO CEARÁ - FEDERAÇÃO DAS SOCIEDADES COOPERA"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.815723091E9,
+    "razaoSocial": "UNIMED GOVERNADOR VALADARES COOP. DE TRABALHO MÉDI"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.769376172E9,
+    "razaoSocial": "ABERTTA SAÚDE - ASSOCIAÇÃO BENEFICENTE DOS EMPREGA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.731195896E9,
+    "razaoSocial": "UNIMED REGIONAL JAU - COOPERATIVA DE TRABALHO MÉDI"
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.68488329E9,
+    "razaoSocial": "UNIMED PLANALTO MÉDIO/RS - COOPERATIVA DE ASSISTÊN"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.569666256E9,
+    "razaoSocial": "AMPLA PLANOS DE SAUDE LTDA"
+  },
+  {
+    "uf": "SC",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.550004776E9,
+    "razaoSocial": "UNIMED DE TUBARAO - COOPERATIVA DE TRABALHO MEDICO"
+  },
+  {
+    "uf": "PE",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.444839437E9,
+    "razaoSocial": "FUNDAÇÃO CHESF DE ASSISTÊNCIA E SEGURIDADE SOCIAL"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.422893771E9,
+    "razaoSocial": "BENEFICENCIA SOCIAL BOM SAMARITANO"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.40262695E9,
+    "razaoSocial": "UNIMED SALTO/ITU - COOPERATIVA MÉDICA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.38439135E9,
+    "razaoSocial": "SUL AMÉRICA ODONTOLÓGICO S/A"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.375881492E9,
+    "razaoSocial": "UNIMED DE BOTUCATU COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.358613001E9,
+    "razaoSocial": "ASSOCIAÇÃO DE SAÚDE PORTUGUESA DE BENEFICÊNCIA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.341748583E9,
+    "razaoSocial": "METRUS INSTITUTO DE SEGURIDADE SOCIAL"
+  },
+  {
+    "uf": "RO",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.335426862E9,
+    "razaoSocial": "UNIMED PORTO VELHO - SOCIEDADE COOPERATIVA MÉDICA "
+  },
+  {
+    "uf": "BA",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.322069024E9,
+    "razaoSocial": "PROMÉDICA - PROTEÇÃO MEDICA A EMPRESAS S.A."
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.234694863E9,
+    "razaoSocial": "UNIMED DE CAMPOS COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.183022573E9,
+    "razaoSocial": "PLENA SAÚDE S.A."
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.180644705E9,
+    "razaoSocial": "UNIMED MISSÕES/RS - COOPERATIVA DE ASSISTÊNCIA À S"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.174108043E9,
+    "razaoSocial": "SUPERMED ADMINISTRADORA DE BENEFÍCIOS LTDA."
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.167169911E9,
+    "razaoSocial": "KLINI PLANOS DE SAÚDE LTDA"
+  },
+  {
+    "uf": "DF",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.162257562E9,
+    "razaoSocial": "QUALLITY PRÓ SAÚDE PLANO DE ASSISTÊNCIA MÉDICA LTD"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.030027679E9,
+    "razaoSocial": "UNIMED LESTE PAULISTA COOPERATIVA DE TRABALHO MÉDI"
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.025909879E9,
+    "razaoSocial": "ASSOCIAÇAO DOS FUNCIONARIOS PUBLICOS DO ESTADO DO "
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.894392654E9,
+    "razaoSocial": "UNIMED DE ARACATUBA - COOPERATIVA DE TRABALHO MÉDI"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.850919658E9,
+    "razaoSocial": "GAMA SAUDE LTDA."
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.776738576E9,
+    "razaoSocial": "UNIMED DE LIMEIRA COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.722526785E9,
+    "razaoSocial": "CAIXA DE PREVIDÊNCIA E ASSISTÊNCIA DOS SERVIDORES "
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.694626639E9,
+    "razaoSocial": "UNIMED PELOTAS/RS - COOPERATIVA DE ASSISTÊNCIA À S"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.686956815E9,
+    "razaoSocial": "IRMANDADE DA SANTA CASA DE MISERICORDIA DE LIMEIRA"
+  },
+  {
+    "uf": "SC",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.664555162E9,
+    "razaoSocial": "FUNDAÇÃO CELESC DE SEGURIDADE SOCIAL - CELOS"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.619177547E9,
+    "razaoSocial": "UNIMED ANHANGUERA COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.605761368E9,
+    "razaoSocial": "UNIMED PATOS DE MINAS COOPERATIVA TRABALHO MÉDICO "
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.440257586E9,
+    "razaoSocial": "BIOVIDA SAÚDE LTDA."
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.437997293E9,
+    "razaoSocial": "AUSTACLINICAS ASSISTÊNCIA MÉDICA E HOSPITALAR LTDA"
+  },
+  {
+    "uf": "BA",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.434376515E9,
+    "razaoSocial": "UNIMED DO SUDOESTE COOPERATIVA DE TRABALHO MEDICO "
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.417932118E9,
+    "razaoSocial": "UNIMED SAÚDE E ODONTO S.A"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.364901989E9,
+    "razaoSocial": "BENSAUDE PLANO DE ASSISTENCIA MEDICA HOSPITALAR LT"
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.362199544E9,
+    "razaoSocial": "UNIMED NOROESTE/RS - SOCIEDADE COOPERATIVA DE ASSI"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.345120093E9,
+    "razaoSocial": "UNIMED DE BEBEDOURO COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.343220559E9,
+    "razaoSocial": "ALVORECER - ASSOCIAÇÃO DE SOCORROS MÚTUOS"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.282251386E9,
+    "razaoSocial": "CONFERÊNCIA SÃO JOSÉ DO AVAÍ"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.274948818E9,
+    "razaoSocial": "2CARE OPERADORA DE SAÚDE LTDA."
+  },
+  {
+    "uf": "TO",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.201848601E9,
+    "razaoSocial": "UNIMED PALMAS COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "GO",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.142705903E9,
+    "razaoSocial": "UNIMED RIO VERDE COOPERATIVA TRABALHO MEDICO"
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.125430204E9,
+    "razaoSocial": "IRMANDADE SANTA CASA DE MISERICÓRDIA DE MARINGÁ"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.017047407E9,
+    "razaoSocial": "MÚTUA DOS MAGISTRADOS DO ESTADO DO RIO DE JANEIRO"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.014525961E9,
+    "razaoSocial": "SÃO LUCAS SAÚDE S/A"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.003389758E9,
+    "razaoSocial": "SANTA CASA DE MISERICÓRDIA DE VOTUPORANGA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.97139354E9,
+    "razaoSocial": "LIFE EMPRESARIAL SAÚDE LTDA."
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.959785726E9,
+    "razaoSocial": "METLIFE PLANOS ODONTOLÓGICOS LTDA."
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.716759805E9,
+    "razaoSocial": "UNIMED AMPARO COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.708542666E9,
+    "razaoSocial": "S.P.A SAUDE- SISTEMA DE PROMOÇÃO ASSISTENCIAL"
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.674157565E9,
+    "razaoSocial": "UNIMED COSTA OESTE - COOPERATIVA DE TRABALHO MÉDIC"
+  },
+  {
+    "uf": "DF",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.58981307E9,
+    "razaoSocial": "PROASA SAÚDE"
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.58947321E9,
+    "razaoSocial": "NOSSA SAÚDE - OPERADORA PLANOS PRIVADOS DE ASSISTÊ"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.571455342E9,
+    "razaoSocial": "UNIMED POÇOS DE CALDAS - SOC. COOP. DE TRAB. E SER"
+  },
+  {
+    "uf": "PA",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.544987316E9,
+    "razaoSocial": "UNIMED OESTE DO PARÁ - COOPERATIVA DE TRABALHO MÉD"
+  },
+  {
+    "uf": "ES",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.394116941E9,
+    "razaoSocial": "UNIMED NOROESTE CAPIXABA COOPERATIVA DE TRABALHO M"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.35716965E9,
+    "razaoSocial": "UNIMED DE RIO CLARO SP COOPERATIVA DE TRABALHO MED"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.313127102E9,
+    "razaoSocial": "IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE RIO CLA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.212916306E9,
+    "razaoSocial": "UNIMED NORDESTE PAULISTA - FED. INTRAFEDERATIVA DA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.180733288E9,
+    "razaoSocial": "INTEGRA ASSISTENCIA MEDICA SA"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.139626644E9,
+    "razaoSocial": "UNIMED VARGINHA COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "DF",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.104899046E9,
+    "razaoSocial": "CAIXA DE ASSISTÊNCIA DOS EMPREGADOS DA EMPRESA BRA"
+  },
+  {
+    "uf": "MT",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.073690847E9,
+    "razaoSocial": "UNIMED VALE DO SEPOTUBA - COOPERATIVA DE TRABALHO "
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.007679699E9,
+    "razaoSocial": "ALL CARE ADMINISTRADORA DE BENEFÍCIOS SÃO PAULO LT"
+  },
+  {
+    "uf": "MA",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.97765844E9,
+    "razaoSocial": "UNIMED MARANHÃO DO SUL - COOPERATIVA DE TRABALHO M"
+  },
+  {
+    "uf": "CE",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.965187259E9,
+    "razaoSocial": "HOSPITAL MATERNIDADE SÃO VICENTE DE PAULO"
+  },
+  {
+    "uf": "RO",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.882478512E9,
+    "razaoSocial": "UNIMED CENTRO RONDÔNIA COOPERATIVA DE TRABALHO MÉD"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.878417881E9,
+    "razaoSocial": "FUNDAÇÃO AFFEMG DE ASSISTÊNCIA E SAÚDE - FUNDAFFEM"
+  },
+  {
+    "uf": "PB",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.735979803E9,
+    "razaoSocial": "UNIMED NORTE/NORDESTE-FEDERAÇÃO INTERFEDERATIVA DA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.724193472E9,
+    "razaoSocial": "MED-TOUR ADMINISTRADORA DE BENEFÍCIOS E EMPREENDIM"
+  },
+  {
+    "uf": "ES",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.711937474E9,
+    "razaoSocial": "UNIMED NORTE CAPIXABA- COOPERATIVA DE TRABALHO MÉD"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.700989708E9,
+    "razaoSocial": "AMEPLAN ASSISTÊNCIA MÉDICA PLANEJADA LTDA"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.690902546E9,
+    "razaoSocial": "AMESC - ASSOCIAÇÃO MÉDICA ESPÍRITA CRISTÃ"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.683876648E9,
+    "razaoSocial": "CAIXA DE ASSISTENCIA A SAUDE DA UNIVERSIDADE"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.654776565E9,
+    "razaoSocial": "UNIMED CENTRO OESTE PAULISTA - FEDERAÇÃO INTRAFEDE"
+  },
+  {
+    "uf": "AC",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.651852156E9,
+    "razaoSocial": "UNIMED RIO BRANCO COOPERATIVA DE TRABALHO MEDICO L"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.646126526E9,
+    "razaoSocial": "BIO SAÚDE SERVIÇOS MÉDICOS LTDA"
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.619663304E9,
+    "razaoSocial": "HOSPITAL DE CARIDADE SÃO VICENTE DE PAULO"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.587461256E9,
+    "razaoSocial": "UNIMED TEOFILO OTONI COOPERATIVA DE TRABALHO MÉDIC"
+  },
+  {
+    "uf": "BA",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.561157556E9,
+    "razaoSocial": "UNIÃO MÉDICA PLANOS DE SAÚDE S/A"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.528843443E9,
+    "razaoSocial": "SERMED-SAÚDE LTDA."
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.48007345E9,
+    "razaoSocial": "FUNDAÇÃO SANEPAR DE ASSISTÊNCIA SOCIAL"
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.397446106E9,
+    "razaoSocial": "UNIMED REGIONAL DE CAMPO MOURÃO COOP TRAB MEDICO "
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.392490394E9,
+    "razaoSocial": "ASSOCIAÇÃO ASSISTENCIAL DE SAÚDE SUPLEMENTAR CRUZ "
+  },
+  {
+    "uf": "CE",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.380939019E9,
+    "razaoSocial": "UNIMED DO CARIRI - SOCIEDADE COOPERATIVA MÉDICA LT"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.339670176E9,
+    "razaoSocial": "UNIMED DE CATANDUVA - COOPERATIVA DE TRABALHO MÉDI"
+  },
+  {
+    "uf": "AM",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.331242136E9,
+    "razaoSocial": "FEDERAÇÃO DAS SOCIEDADES COOPERATIVAS DE TRABALHO "
+  },
+  {
+    "uf": "GO",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.298599745E9,
+    "razaoSocial": "UNIMED ANÁPOLIS COOPERATIVA DE TRABALHO MÉDICO."
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.292642073E9,
+    "razaoSocial": "SOCIEDADE PORTUGUESA DE BENEFICÊNCIA"
+  },
+  {
+    "uf": "AL",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.265151871E9,
+    "razaoSocial": "UNIMED METROPOLITANA DO AGRESTE - COOPERATIVA DE T"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.246056326E9,
+    "razaoSocial": "UNIMED PETROPOLIS-RJ COOPERATIVA DE TRABALHO MÉDIC"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.215902156E9,
+    "razaoSocial": "CAIXA DE ASSISTÊNCIA OSWALDO CRUZ"
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.209570826E9,
+    "razaoSocial": "SAUDE PAS - MEDICINA E ODONTO"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.120696279E9,
+    "razaoSocial": "UNIMED CONSELHEIRO LAFAIETE COOPERATIVA DE TRABALH"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.098525387E9,
+    "razaoSocial": "UNIMED ARAXÁ COOPERATIVA DE TRABALHO MÉDICO LTDA."
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.062665421E9,
+    "razaoSocial": "UNIHOSP SAÚDE LTDA"
+  },
+  {
+    "uf": "MS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.039452922E9,
+    "razaoSocial": "CAIXA DE ASSISTÊNCIA À SAÚDE DOS SERVIDORES PÚBLIC"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.032143742E9,
+    "razaoSocial": "LIV LINHAS INTELIGENTES DE ATENÇÃO À VIDA S/A"
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.995586442E9,
+    "razaoSocial": "UNIMED VALE DO CAÍ/RS - COOPERATIVA DE ASSISTÊNCIA"
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.989982422E9,
+    "razaoSocial": "UNIMED PATO BRANCO SOCIEDADE COOPERATIVA DE MÉDICO"
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.949089755E9,
+    "razaoSocial": "UNIMED LITORAL SUL/RS - COOPERATIVA DE ASSISTÊNCIA"
+  },
+  {
+    "uf": "DF",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.921126284E9,
+    "razaoSocial": "SAÚDE BRB - CAIXA DE ASSISTÊNCIA "
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.853610237E9,
+    "razaoSocial": "UNIMED SÃO LOURENÇO COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.848396141E9,
+    "razaoSocial": "UNIMED ERECHIM - COOPERATIVA DE SERVIÇOS DE SAÚDE "
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.836256066E9,
+    "razaoSocial": "UNIMED CURVELO COOPERATIVA DE TRABALHO MÉDICO LTDA"
+  },
+  {
+    "uf": "SC",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.809046474E9,
+    "razaoSocial": "UNIMED MEIO OESTE CATARINENSE COOPERATIVA DE TRABA"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.80821856E9,
+    "razaoSocial": "CABERJ INTEGRAL SAÚDE S.A"
+  },
+  {
+    "uf": "SC",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.738142358E9,
+    "razaoSocial": "UNIMED DE BRUSQUE COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.735289717E9,
+    "razaoSocial": "UNIMED ENCOSTA DA SERRA/RS SOCIEDADE COOPERATIVA D"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.733006926E9,
+    "razaoSocial": "UNIMED ALTO SÃO FRANCISCO COOPERATIVA DE TRABALHO "
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.722938731E9,
+    "razaoSocial": "UNIMED GUARAPUAVA COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.71411506E9,
+    "razaoSocial": "UNIMED RESENDE COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.69908255E9,
+    "razaoSocial": "UNIMED ARARUAMA COOPERATIVA DE TRABALHO MÉDICO LTD"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.692762147E9,
+    "razaoSocial": "FUNDAÇÃO FILANTRÓPICA E BENEFICENTE DE SAÚDE ARNAL"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.590657927E9,
+    "razaoSocial": "PLURAL GESTÃO EM PLANOS DE SAÚDE LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.580058898E9,
+    "razaoSocial": "UNIMED DE OURINHOS - COOPERATIVA DE TRABALHO MÉDIC"
+  },
+  {
+    "uf": "BA",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.565630914E9,
+    "razaoSocial": "UNIMED COSTA DO DESCOBRIMENTO COOPERATIVA DE TRABA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.5208623E9,
+    "razaoSocial": "UNIMED DE CAÇAPAVA - COOPERATIVA DE TRABALHO MEDIC"
+  },
+  {
+    "uf": "GO",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.46502961E9,
+    "razaoSocial": "SELECT OPERADORA DE PLANO DE SAUDE LTDA"
+  },
+  {
+    "uf": "PE",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.443628254E9,
+    "razaoSocial": "FUNDAÇAO COMPESA DE PREVIDENCIA E ASSISTENCIA - CO"
+  },
+  {
+    "uf": "DF",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.434909362E9,
+    "razaoSocial": "LUMINAR SAÚDE - ASSOCIAÇÃO DE ASSISTÊNCIA À SAÚDE"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.416434062E9,
+    "razaoSocial": "UNIMED PARÁ DE MINAS COOPERATIVA DE TRABALHO MÉDIC"
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.38651255E9,
+    "razaoSocial": "DENTAL UNI - COOPERATIVA ODONTOLÓGICA"
+  },
+  {
+    "uf": "GO",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.356310849E9,
+    "razaoSocial": "CENTRAL REGIONAL DAS COOPERATIVAS MÉDICAS - UNIMED"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.323763928E9,
+    "razaoSocial": "ASSOCIAÇÃO PADRE ALBINO SAÚDE"
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.31155266E9,
+    "razaoSocial": "ASSOCIAÇÃO DE ASSISTÊNCIA MÉDICO HOSPITALAR DOS MA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.309053539E9,
+    "razaoSocial": "AMHE MED ASSISTENCIA A SAUDE LTDA - EPP"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.299286327E9,
+    "razaoSocial": "UNIMED DE TATUI - COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "MT",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.299248178E9,
+    "razaoSocial": "UNIMED BARRA DO GARÇAS - COOPERATIVA DE TRABALHO M"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.298276958E9,
+    "razaoSocial": "ALLIANZ SAÚDE S/A"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.286786696E9,
+    "razaoSocial": "UNIMED DE JABOTICABAL COOP. DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.276701377E9,
+    "razaoSocial": "OPERADORA UNIESTE DE PLANOS DE SAÚDE LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.276081965E9,
+    "razaoSocial": "PLANO DE SAÚDE DA SANTA CASA DE BRAGANÇA PAULISTA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.26478754E9,
+    "razaoSocial": "SANTA CASA DE MISERICÓRDIA E BENEFICÊNCIA PORTUGUE"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.26289183E9,
+    "razaoSocial": "ASSOCIAÇÃO DE ASSISTÊNCIA À SAÚDE DOS EMPREGADOS D"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.241793209E9,
+    "razaoSocial": "HBC SAÚDE LTDA."
+  },
+  {
+    "uf": "SC",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.21769062E9,
+    "razaoSocial": "SIM - CAIXA DE ASSISTÊNCIA À SAÚDE"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.184161819E9,
+    "razaoSocial": "CAIXA SEGURADORA ESPECIALIZADA EM SAÚDE S/A"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.174787668E9,
+    "razaoSocial": "UNIMED MONTES CLAROS COOPERATIVA DE  TRABALHO MÉDI"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.145135991E9,
+    "razaoSocial": "UNIMED NORTE FLUMINENSE COOPERATIVA DE TRABALHO ME"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.142119086E9,
+    "razaoSocial": "ASSOCIAÇÃO DOS SERVIDORES MUNICIPAIS, ESTADUAIS E "
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.106578304E9,
+    "razaoSocial": "VALEM ADMINISTRADORA DE BENEFÍCIOS LTDA"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.08879521E9,
+    "razaoSocial": "UNIMED SUDOESTE DE MINAS COOPERATIVA DE TRABALHO M"
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.054014129E9,
+    "razaoSocial": "UNIMED DE PARANAVAÍ COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "BA",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.050583781E9,
+    "razaoSocial": "ASSOCIAÇÃO DOS SERVIDORES FISCAIS DO ESTADO DA BAH"
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.041605331E9,
+    "razaoSocial": "UNIMED DE PARANAGUÁ COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.024979743E9,
+    "razaoSocial": "UNIMED DE PINDAMONHANGABA - COOPERATIVA TRABALHO M"
+  },
+  {
+    "uf": "GO",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.021484726E9,
+    "razaoSocial": "UNIMED REGIONAL SUL GOIAS COOP. DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "ES",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.002545369E9,
+    "razaoSocial": "FUNDAÇÃO DE SEGURIDADE SOCIAL DA ARCELORMITTAL BRA"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.98604323E9,
+    "razaoSocial": "UNIMED SÃO JOÃO DEL REI - COOPERATIVA DE TRABALHO "
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.977649886E9,
+    "razaoSocial": "UNIMED FRONTEIRA NOROESTE/RS - COOPERATIVA DE ASSI"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.975807929E9,
+    "razaoSocial": "SANTA CASA DE MISERICORDIA DE SAO JOAQUIM DA BARRA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.9437129E9,
+    "razaoSocial": "UNIMED DE ASSIS COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.915448442E9,
+    "razaoSocial": "UNIMED ITABIRA COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "SC",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.894541328E9,
+    "razaoSocial": "ELOSAÚDE - ASSOCIAÇÃO DE ASSISTÊNCIA À SAÚDE"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.8377375E9,
+    "razaoSocial": "ASSOCIAÇÃO DE ASSISTÊNCIA À SAÚDE DA AMAGIS"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.832777023E9,
+    "razaoSocial": "UNIMED ITAJUBA COOPERATIVA DE TRABALHO MEDICO"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.825523217E9,
+    "razaoSocial": "ASSOCIAÇÃO DA SANTA CASA SAÚDE DE RIBEIRÃO PRETO"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.813519986E9,
+    "razaoSocial": "UNIMED INCONFIDENTES COOPERATIVA DE TRABALHO MÉDIC"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.811348504E9,
+    "razaoSocial": "UNIMED DE LINS - COOPERATIVA DE TRABALHOS MÉDICOS"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.811047163E9,
+    "razaoSocial": "POLICLIN SAÚDE S/A."
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.80008985E9,
+    "razaoSocial": "UNIMED ALTO DA SERRA - SOCIEDADE COOPERATIVA DE SE"
+  },
+  {
+    "uf": "BA",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.785398644E9,
+    "razaoSocial": "UNIMED EXTREMO SUL COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.780476372E9,
+    "razaoSocial": "CAIXA DE ASSISTÊNCIA SISTEMA SAÚDE INTEGRAL-SSI SA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.765363417E9,
+    "razaoSocial": "ASSOCIAÇÃO SÃO FRANCISCO VIDA"
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.763179242E9,
+    "razaoSocial": "UNIMED APUCARANA COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.75006372E9,
+    "razaoSocial": "UNIMED JOÃO MONLEVADE COOPERATIVA DE TRABALHO MÉDI"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.734122068E9,
+    "razaoSocial": "UNIMED DE SÃO ROQUE - COOPERATIVA DE TRABALHO MÉDI"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.732572681E9,
+    "razaoSocial": "UNIMED ITAÚNA COOPERATIVA DE TRABALHO MÉDICO LTDA."
+  },
+  {
+    "uf": "CE",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.719815211E9,
+    "razaoSocial": "UNIMED DE SOBRAL SOCIEDADE COOPERATIVA MÉDICA LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.715980827E9,
+    "razaoSocial": "UNIODONTO DE CAMPINAS COOPERATIVA ODONTOLÓGICA"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.70340016E9,
+    "razaoSocial": "UNIMED DE BARRA MANSA SOC. COOP. SERV.MED.E HOSPIT"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.696784161E9,
+    "razaoSocial": "AGROS - INSTITUTO UFV DE SEGURIDADE SOCIAL"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.690877486E9,
+    "razaoSocial": "ASSOCIAÇÃO MINEIRA DE ASSISTÊNCIA À SAÚDE DOS MEMB"
+  },
+  {
+    "uf": "GO",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.670005222E9,
+    "razaoSocial": "CAIXA DE ASSISTÊNCIA DOS EMPREGADOS DA SANEAGO"
+  },
+  {
+    "uf": "SC",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.633387557E9,
+    "razaoSocial": "COOPERATIVA DE TRABALHO MEDICO REGIÃO DO PLANALTO "
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.62121974E9,
+    "razaoSocial": "QUALICORP CLUBE DE SAÚDE ADMINISTRADORA DE BENEFÍC"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.604772181E9,
+    "razaoSocial": "AFFIX ADMINISTRADORA DE BENEFÍCIOS LTDA"
+  },
+  {
+    "uf": "ES",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.599468821E9,
+    "razaoSocial": "CAIXA DE ASSISTÊNCIA DOS EMPREGADOS DO SISTEMA FIN"
+  },
+  {
+    "uf": "GO",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.599412324E9,
+    "razaoSocial": "UNIMED DE CATALÃO COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "SC",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.586785054E9,
+    "razaoSocial": "UNIMED ALTO VALE - COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.581690848E9,
+    "razaoSocial": "UNIMED BARBACENA - COOPERATIVA DE TRABALHO MÉDICO "
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.580777548E9,
+    "razaoSocial": "ASSOCIAÇÃO BENEFICENTE CATÓLICA"
+  },
+  {
+    "uf": "GO",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.574524148E9,
+    "razaoSocial": "VIVACOM PLANOS DE SAÚDE"
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.553206375E9,
+    "razaoSocial": "INSTITUIÇÃO BENEFICENTE CEL MASSOT - IBCM"
+  },
+  {
+    "uf": "PI",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.461358913E9,
+    "razaoSocial": "HOSPITAIS E CLÍNICAS DO PIAUÍ S/S LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.458632649E9,
+    "razaoSocial": "GOCARE PLANOS DE SAUDE LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.45556317E9,
+    "razaoSocial": "ASSOCIAÇÃO BENEFICENTE DE ASSISTÊNCIA A SAÚDE DOS "
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.437762787E9,
+    "razaoSocial": "UNIMED FRANCISCO BELTRAO COOPERATIVA DE TRABALHO M"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.425450675E9,
+    "razaoSocial": "OESTE SAÚDE ASSISTÊNCIA A SAÚDE SUPLEMENTAR S.A"
+  },
+  {
+    "uf": "SC",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.410797055E9,
+    "razaoSocial": "CAIXA ASSISTENCIAL E BENEFICENTE DOS FUNCIONÁRIOS "
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.402886137E9,
+    "razaoSocial": "UNIMED CENTRO PAULISTA - FEDERAÇÃO INTRAFEDERATIVA"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.39856068E9,
+    "razaoSocial": "FUNDAÇÃO LIBERTAS DE SEGURIDADE SOCIAL"
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.376623889E9,
+    "razaoSocial": "UNIMED NORTE DO PARANÁ COOPERATIVA REGIONAL DE TRA"
+  },
+  {
+    "uf": "AL",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.362288162E9,
+    "razaoSocial": "ESMALE ASSISTENCIA INTERNACIONAL DE SAUDE LTDA."
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.359505229E9,
+    "razaoSocial": "UNIMED DE AVARÉ COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.356327591E9,
+    "razaoSocial": "UNIMED OESTE DO PARANA - COOPERATIVA DE TRABALHO M"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.345266573E9,
+    "razaoSocial": "UNIMED LAVRAS COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.345073637E9,
+    "razaoSocial": "UNIMED SUL PAULISTA - COOPERATIVA DE TRABALHO MÉDI"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.330267338E9,
+    "razaoSocial": "UNIMED CENTRO SUL FLUMINENSE COOPERATIVA DE TRABAL"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.326710004E9,
+    "razaoSocial": "PRONTOMED PLANOS DE SAÚDE LTDA"
+  },
+  {
+    "uf": "CE",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.318765789E9,
+    "razaoSocial": "CAIXA DE ASSISTÊNCIA DOS SERVIDORES FAZENDÁRIOS ES"
+  },
+  {
+    "uf": "DF",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.292907767E9,
+    "razaoSocial": "CAIXA DE ASSISTÊNCIA À SAUDE DOS EMPREGADOS DA COD"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.26947921E9,
+    "razaoSocial": "UNIMED DE GUARATINGUETA-COOPERATIVA DE TRABALHO MÉ"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.269431061E9,
+    "razaoSocial": "ASSOCIAÇÃO SANTA CASA SAÚDE DE ARAÇATUBA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.260202353E9,
+    "razaoSocial": "SAÚDE SANTA TEREZA LTDA."
+  },
+  {
+    "uf": "RO",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.237241935E9,
+    "razaoSocial": "UNIMED VILHENA - COOPERATIVA DE TRABALHO MEDICO LT"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.230884688E9,
+    "razaoSocial": "SAMI ASSISTÊNCIA MÉDICA LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.22736024E9,
+    "razaoSocial": "ASSOCIAÇÃO POLICIAL DE ASSISTÊNCIA À SAÚDE"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.222174199E9,
+    "razaoSocial": "SISTEMAS E PLANOS DE SAÚDE LTDA."
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.214077765E9,
+    "razaoSocial": "ASSISTÊNCIA MÉDICA SÃO MIGUEL LTDA"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.20192296E9,
+    "razaoSocial": "ELETROS SAÚDE - ASSOCIAÇÃO DE ASSISTÊNCIA À SAÚDE"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.159640021E9,
+    "razaoSocial": "UNIMED VIÇOSA - COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "SE",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.158551982E9,
+    "razaoSocial": "CAIXA DE ASSISTÊNCIA DOS EMPREGADOS DO BANESE"
+  },
+  {
+    "uf": "MS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.150008735E9,
+    "razaoSocial": "UNIMED REGIONAL DE TRES LAGOAS COOPERATIVA DE TRAB"
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.147130069E9,
+    "razaoSocial": "UNIMED NORTE PIONEIRO - COOPERATIVA DE TRABALHO MÉ"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.146302579E9,
+    "razaoSocial": "UNIMED DE CAPIVARI -COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.124355915E9,
+    "razaoSocial": "UNIMED MURIAÉ COOPERATIVA DE TRABALHO MEDICO LTDA"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.122965276E9,
+    "razaoSocial": "UNIMED CABO FRIO COOPERATIVA TRABALHO MÉDICO LTDA."
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.121079864E9,
+    "razaoSocial": "UNIMED OS BANDEIRANTES COOPERATIVA DE TRABALHO MÉD"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.110602107E9,
+    "razaoSocial": "CENTRO HOSPITALAR ATIBAIA LTDA."
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.107356341E9,
+    "razaoSocial": "UNIMED ALTA MOGIANA COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.096211038E9,
+    "razaoSocial": "UNIMED ALFENAS COOPERATIVA DE TRABALHO MEDICO"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.090613677E9,
+    "razaoSocial": "HOSPITAL CESAR LEITE"
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.084402406E9,
+    "razaoSocial": "UNIMED NOROESTE DO PARANÁ COOP DE TRABALHO MÉDICO "
+  },
+  {
+    "uf": "PE",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.082076547E9,
+    "razaoSocial": "CAIXA DE ASSISTÊNCIA DOS MAGISTRADOS DE PERNAMBUCO"
+  },
+  {
+    "uf": "SE",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.078560369E9,
+    "razaoSocial": "PLAMED PLANO DE ASSISTENCIA MEDICA LTDA"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.072196278E9,
+    "razaoSocial": "SANTA CASA DA MISERICÓRDIA DE SÃO JOÃO DEL REI"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.070056202E9,
+    "razaoSocial": "PREVIDENT ASSISTÊNCIA ODONTOLÓGICA S.A"
+  },
+  {
+    "uf": "SC",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.041738168E9,
+    "razaoSocial": "UNIMED EXTREMO OESTE CATARINENSE COOPERATIVA DE TR"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.031387578E9,
+    "razaoSocial": "UNIMED ITUIUTABA COOPERATIVA TRABALHO MÉDICO LTDA."
+  },
+  {
+    "uf": "SC",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.027957312E9,
+    "razaoSocial": "TEMPO MED PLANO DE SAUDE LTDA"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.012651789E9,
+    "razaoSocial": "CAIXA DE ASSISTÊNCIA AOS MEMBROS DA DEFENSORIA PÚB"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.011366932E9,
+    "razaoSocial": "UNIMED COSTA VERDE RJ"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.009901652E9,
+    "razaoSocial": "UNIMED DE UBA COOPERATIVA DE TRABALHO MEDICO"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.005851828E9,
+    "razaoSocial": "UNIMED PATROCÍNIO COOPERATIVA DE TRABALHO MÉDICO L"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.002991171E9,
+    "razaoSocial": "FUNDAÇÃO FIAT SAÚDE E BEM ESTAR"
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.999121081E9,
+    "razaoSocial": "PARANA ASSISTENCIA MEDICA LTDA"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.992937382E9,
+    "razaoSocial": "UNIMED MARQUES DE VALENÇA COOPERATIVA DE TRABALHO "
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.971607801E9,
+    "razaoSocial": "UNIMED GUAXUPÉ COOPERATIVA DE TRABALHO MEDICO"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.927555681E9,
+    "razaoSocial": "SANTA CASA DE MAUÁ SAÚDE"
+  },
+  {
+    "uf": "PE",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.920560418E9,
+    "razaoSocial": "CAIXA DE ASSISTÊNCIA À SAÚDE DO SINDICATO DOS FUNC"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.891812651E9,
+    "razaoSocial": "GARANTIA DE SAÚDE LTDA"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.885964941E9,
+    "razaoSocial": "UNIMED TRÊS CORAÇÕES COOPERATIVA DE TRABALHO MÉDIC"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.853634601E9,
+    "razaoSocial": "SANTA CASA DE MISERICÓRDIA DE TUPÃ"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.843988745E9,
+    "razaoSocial": "UNIMED DE BARRETOS COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.824895959E9,
+    "razaoSocial": "UNIMED ARAGUARI COOPERATIVA DE TRABALHO MÉDICO "
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.822886666E9,
+    "razaoSocial": "UNIMED DE LENÇOIS PAULISTA - COOPERATIVA DE TRABAL"
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.822354216E9,
+    "razaoSocial": "SULMED - ASSISTÊNCIA MÉDICA LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.808008593E9,
+    "razaoSocial": "UNIMED DE IBITINGA COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.792385479E9,
+    "razaoSocial": "CARE PLUS ODONTOLOGIA ASSISTENCIAL LTDA."
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.790182592E9,
+    "razaoSocial": "UNIMED TRÊS RIOS COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "SC",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.781428912E9,
+    "razaoSocial": "COOPERATIVA DE TRABALHO MÉDICO DO PLANALTO NORTE D"
+  },
+  {
+    "uf": "MT",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.776863851E9,
+    "razaoSocial": "UNIMED FEDERAÇAO DO ESTADO DO MATO GROSSO"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.775331329E9,
+    "razaoSocial": "ASSOCIAÇÃO MAIS SAÚDE SANTA CASA DE SÃO JOÃO DA BO"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.769523266E9,
+    "razaoSocial": "SAMOC S.A. - SOCIEDADE ASSISTENCIAL MÉDICA E ODONT"
+  },
+  {
+    "uf": "RN",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.741187321E9,
+    "razaoSocial": "CAIXA ASSISTENCIAL UNIVERSITÁRIA DO RIO GRANDE DO "
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.739355011E9,
+    "razaoSocial": "OPERADORA UNICENTRAL DE PLANOS DE SAÚDE LTDA."
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.735602093E9,
+    "razaoSocial": "IRMANDADE DE MISERICÓRDIA DO HOSPITAL DA SANTA CAS"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.735577023E9,
+    "razaoSocial": "UNIMED DE BIRIGUI - COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.728564973E9,
+    "razaoSocial": "UNIMED NOROESTE DE MINAS COOPERATIVA DE TRABALHO M"
+  },
+  {
+    "uf": "PA",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.727879556E9,
+    "razaoSocial": "CAIXA DE ASSISTÊNCIA DOS FUNCIONÁRIOS DO BANCO DA "
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.717044272E9,
+    "razaoSocial": "UNIMED DE LORENA COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.707650805E9,
+    "razaoSocial": "UNIMED DE SAO JOSÉ DO RIO PARDO-COOP. DE TRAB. MÉD"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.703015072E9,
+    "razaoSocial": "SAÚDE BRASIL ASSISTÊNCIA MÉDICA LTDA."
+  },
+  {
+    "uf": "ES",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.697481453E9,
+    "razaoSocial": "BEST SENIOR OPERADORA DE SAÚDE LTDA"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.692690426E9,
+    "razaoSocial": "UNIMED SÃO SEBASTIÃO DO PARAÍSO COOPERATIVA DE TRA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.680504754E9,
+    "razaoSocial": "UNIODONTO DE SÃO JOSÉ DOS CAMPOS COOPERATIVA DE TR"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.676884621E9,
+    "razaoSocial": "SANTA CASA DE MISERICORDIA HOSPITAL SÃO VICENTE"
+  },
+  {
+    "uf": "TO",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.664532197E9,
+    "razaoSocial": "UNIMED GURUPI COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.662833689E9,
+    "razaoSocial": "UNIMED PLANALTO CENTRAL/RS - COOPERATIVA DE ASSIST"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.656509502E9,
+    "razaoSocial": "IRMANDADE DE MISERICORDIA DE PORTO FERREIRA"
+  },
+  {
+    "uf": "PE",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.653538079E9,
+    "razaoSocial": "SÃO FRANCISCO ASSISTÊNCIA MÉDICA LTDA"
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.651468233E9,
+    "razaoSocial": "UNIMED VALE DAS ANTAS, RS - COOPERATIVA DE ASSISTÊ"
+  },
+  {
+    "uf": "SC",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.645073149E9,
+    "razaoSocial": "UNIMED CAÇADOR COOPERATIVA DE TRABALHO MÉDICO DA R"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.614689733E9,
+    "razaoSocial": "BRASILDENTAL OPERADORA DE PLANOS ODONTOLÓGICOS S.A"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.602469581E9,
+    "razaoSocial": "UNIMED NORTE PAULISTA - COOPERATIVA DE TRABALHO MÉ"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.591724247E9,
+    "razaoSocial": "GS PLANO GLOBAL DE SAÚDE LTDA"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.57898961E9,
+    "razaoSocial": "UNIMED INTRAFEDERATIVA FEDERAÇÃO REGIONAL SUL DE M"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.572840359E9,
+    "razaoSocial": "LEADER ASSISTÊNCIA MÉDICA E HOSPITALAR LTDA."
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.557182321E9,
+    "razaoSocial": "ODONTO EMPRESAS CONVENIOS DENTARIOS LTDA."
+  },
+  {
+    "uf": "GO",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.503134819E9,
+    "razaoSocial": "UNIMED DE MINEIROS COOPERATIVA DE TRABALHO MÉDICO "
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.501068478E9,
+    "razaoSocial": "MATÃO CLINICAS \u0026 AMHMA SAÚDE LTDA"
+  },
+  {
+    "uf": "GO",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.489976061E9,
+    "razaoSocial": "ASSOCIAÇÃO DOS FUNCIONÁRIOS DO FISCO DO ESTADO DE "
+  },
+  {
+    "uf": "BA",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.480474934E9,
+    "razaoSocial": "ASSOCIAÇÃO DO PLANO DE SAÚDE DA SANTA CASA DE MISE"
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.472893969E9,
+    "razaoSocial": "UNIMED VALE DO PIQUIRI-COOPERATIVA DE TRABALHO MÉD"
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.472685901E9,
+    "razaoSocial": "UNIMED DE CIANORTE - COOPERATIVA DE TRABALHO MEDIC"
+  },
+  {
+    "uf": "PA",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.468557042E9,
+    "razaoSocial": "AMAZÔNIA PLANOS DE SAÚDE LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.45679372E9,
+    "razaoSocial": "SÃO DOMINGOS SAÚDE- ASSISTÊNCIA MÉDICA  LTDA"
+  },
+  {
+    "uf": "SC",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.452197993E9,
+    "razaoSocial": "ASSOCIAÇÃO SAÚDE SÃO JOSÉ"
+  },
+  {
+    "uf": "TO",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.442105994E9,
+    "razaoSocial": "COOPERATIVA DE TRABALHO MEDICO DE ARAGUAÍNA - UNIM"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.440501723E9,
+    "razaoSocial": "UNIMED DE TAUBATÉ COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.429924761E9,
+    "razaoSocial": "UNIMED REGIÃO DA CAMPANHA/RS - COOPERATIVA DE ASSI"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.428814655E9,
+    "razaoSocial": "UNIMED DE ANDRADINA - COOPERATIVA DE TRABALHO MÉDI"
+  },
+  {
+    "uf": "ES",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.397177048E9,
+    "razaoSocial": "BENEVIX ADMINISTRADORA DE BENEFÍCIOS LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.377995522E9,
+    "razaoSocial": "ASSOCIAÇÃO SÃO LUIZ SAÚDE"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.377550881E9,
+    "razaoSocial": "SANTA CASA DE MISERICÓRDIA E ASILO DOS POBRES DE B"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.363524658E9,
+    "razaoSocial": "UNIMED TRÊS PONTAS - COOPERATIVA DE TRABALHO MÉDIC"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.35562698E9,
+    "razaoSocial": "ÚNICA ASSISTENCIA MEDICA LTDA "
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.352786899E9,
+    "razaoSocial": "UNIMED CATAGUASES COOPERATIVA DE TRABALHO MÉDICO L"
+  },
+  {
+    "uf": "DF",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.343725976E9,
+    "razaoSocial": "UNITY SERVIÇOS INTEGRADOS DE SAÚDE LTDA."
+  },
+  {
+    "uf": "SC",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.33744751E9,
+    "razaoSocial": "ASSOCIAÇÃO DE SAÚDE DO VALE"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.319741882E9,
+    "razaoSocial": "UNIMED CARATINGA - COOPERATIVA DE TRABALHO MÉDICO "
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.307348145E9,
+    "razaoSocial": "UNIMED NOROESTE FLUMINENSE - COOPERATIVA DE TRABAL"
+  },
+  {
+    "uf": "SC",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.303810839E9,
+    "razaoSocial": "PLADISA PLANOS DE SAÚDE SA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.294708895E9,
+    "razaoSocial": "ASSOCIAÇÃO DE SAÚDE DOS FORNECEDORES DE CANA DE PI"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.292001365E9,
+    "razaoSocial": "ATÍVIA SERVIÇOS DE SAÚDE S/A"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.285265233E9,
+    "razaoSocial": "UNIMED DE DRACENA - COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.278073184E9,
+    "razaoSocial": "UNIMED SUDOESTE PAULISTA COOPERATIVA DE TRABALHO M"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.272852831E9,
+    "razaoSocial": "UNIMED DE TUPA COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.265855249E9,
+    "razaoSocial": "UNIMED PONTAL DO TRIÂNGULO - COOPERATIVA DE TRABAL"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.26169647E9,
+    "razaoSocial": "UNIMED DE REGISTRO COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "BA",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.252228312E9,
+    "razaoSocial": "UNIMED DO OESTE DA BAHIA COOPERATIVA DE TRABALHO M"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.251132816E9,
+    "razaoSocial": "ASSOCIAÇÃO POLICIAL DE ASSISTÊNCIA À SAÚDE DE BAUR"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.241522257E9,
+    "razaoSocial": "IBBCA 2008 GESTÃO EM SAÚDE LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.228169018E9,
+    "razaoSocial": "SBC SAÚDE LTDA."
+  },
+  {
+    "uf": "PB",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.223894178E9,
+    "razaoSocial": "ASSOCIAÇÃO DOS AUDITORES FISCAIS DO ESTADO DA PARA"
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.211893045E9,
+    "razaoSocial": "ASSOCIAÇÃO PARANAENSE DE ASSISTÊNCIA À SAUDE DOS M"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.205087588E9,
+    "razaoSocial": "PLANO DE SAUDE ASES LTDA."
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.198242387E9,
+    "razaoSocial": "AMHA SAUDE S/A"
+  },
+  {
+    "uf": "MT",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.197771595E9,
+    "razaoSocial": "UNIMED VALE DO JAURU COOPERATIVA DE TRABALHO MÉDIC"
+  },
+  {
+    "uf": "GO",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.194062382E9,
+    "razaoSocial": "ANAFE SAUDE"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.189152815E9,
+    "razaoSocial": "ADVANCE PLANOS DE SAÚDE LTDA"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.163889014E9,
+    "razaoSocial": "VITA ASSISTÊNCIA A SAÚDE LTDA."
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.157926963E9,
+    "razaoSocial": "UNIMED REGIÃO DA PRODUÇÃO/RS - COOPERATIVA DE ASSI"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.145028564E9,
+    "razaoSocial": "PRONTOCLINICA E HOSPITAIS SAO LUCAS S/A"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.142266742E9,
+    "razaoSocial": "NOVA SAÚDE OPERADORA INTEGRADA DE SAÚDE LTDA"
+  },
+  {
+    "uf": "SC",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.112073434E9,
+    "razaoSocial": "ASSOCIAÇÃO SAÚDE CONCEIÇÃO"
+  },
+  {
+    "uf": "BA",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.101718416E9,
+    "razaoSocial": "TERRAMAR ADMINISTRADORA DE PLANO DE SAUDE LTDA"
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.091156033E9,
+    "razaoSocial": "UNIODONTO PORTO ALEGRE COOPERATIVA ODONTOLOGICA LT"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.085786876E9,
+    "razaoSocial": "UNIMED DE PIRASSUNUNGA COOPERATIVA DE TRABALHO MÉD"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.085291287E9,
+    "razaoSocial": "ODONTO SEG OPERADORA DE PLANOS ODONTOLOGICOS S.A."
+  },
+  {
+    "uf": "PB",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.069967266E9,
+    "razaoSocial": "UNIMED PATOS - COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.050907929E9,
+    "razaoSocial": "UNIMED DE BATATAIS - COOPERATIVA DE TRABALHO MÉDIC"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.044938605E9,
+    "razaoSocial": "AMPARA ASSISTÊNCIA MÉDICA PARAÍSO LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.044803075E9,
+    "razaoSocial": "ASSOCIAÇÃO POLICIAL DE ASSISTÊNCIA A SAÚDE DA BAIX"
+  },
+  {
+    "uf": "GO",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.03636922E9,
+    "razaoSocial": "UNIMED DE JATAÍ COOPERATIVA DE TRABALHO MÉDICO LTD"
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.033706736E9,
+    "razaoSocial": "UNIMED REGIÃO DA FRONTEIRA - RS COOPERATIVA DE ASS"
+  },
+  {
+    "uf": "MS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.024975359E9,
+    "razaoSocial": "OPERADORA DE PLANOS PRIVADOS DE SAÚDE - SANTA CASA"
+  },
+  {
+    "uf": "PE",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.021068925E9,
+    "razaoSocial": "NACIONAL ODONTO OPERADORA DE PLANOS ODONTOLÓGICOS "
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.016450617E9,
+    "razaoSocial": "IRMANDADE DA SANTA CASA DE MISERICÓRDIA E MATERNID"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.013661056E9,
+    "razaoSocial": "DESBAN - FUNDAÇÃO BDMG DE SEGURIDADE SOCIAL"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.005622216E9,
+    "razaoSocial": "UNIMED DE MOCOCA COOPERATIVA DE TRAB. MÉDICO"
+  },
+  {
+    "uf": "SC",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 9.99415994E8,
+    "razaoSocial": "UNIODONTO DE SC COOPERATIVA ADMINISTRADORA DE CONT"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 9.97994127E8,
+    "razaoSocial": "UNIMED VERTENTE DO CAPARAÓ - COOPERATIVA DE TRABAL"
+  },
+  {
+    "uf": "BA",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 9.81177101E8,
+    "razaoSocial": "PB ASSISTENCIA MEDICA EU LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 9.76369571E8,
+    "razaoSocial": "INTERMEDICI PIRACICABA ASSISTENCIA MEDICA LTDA"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 9.73201876E8,
+    "razaoSocial": "ASSOCIAÇÃO FCA SAÚDE"
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 9.48088287E8,
+    "razaoSocial": "POLI SAUDE OPERADORA DE PLANO DE SAUDE LTDA"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 9.45539023E8,
+    "razaoSocial": "G2C ADMINISTRADORA DE BENEFICIOS LTDA - ME"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 9.3743191E8,
+    "razaoSocial": "UNIMED DE ADAMANTINA-COOPERATIVA DE TRABALHO MÉDIC"
+  },
+  {
+    "uf": "SC",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 9.36372395E8,
+    "razaoSocial": "FEDERAÇÃO DAS COOP ODONTOLÓGICAS DO ESTADO DE SANT"
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 9.34609864E8,
+    "razaoSocial": "VIVENTERIS LTDA"
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 9.27694968E8,
+    "razaoSocial": "ASSOCIAÇÃO FUNDO DE PROTEÇÃO À SAÚDE"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 9.25391259E8,
+    "razaoSocial": "UNIMED DE MONTE ALTO - COOPERATIVA DE TRABALHO MÉD"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 9.15662267E8,
+    "razaoSocial": "UNIMED MACHADO COOPERATIVA DE TRABALHO MEDICO"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 9.04329232E8,
+    "razaoSocial": "UNIODONTO REGIONAL COOPERATIVA ODONTOLOGICA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 8.96809383E8,
+    "razaoSocial": "SF SISTEMAS DE SAÚDE LTDA"
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 8.79413652E8,
+    "razaoSocial": "ASSOCIAÇAO UNISAUDE MARAU"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 8.77768236E8,
+    "razaoSocial": "UNIMED FRUTAL COOPERATIVA DE TRABALHO MEDICO LTDA"
+  },
+  {
+    "uf": "CE",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 8.77470801E8,
+    "razaoSocial": "UNIODONTO DE FORTALEZA COOPERATIVA DE TRABALHO ODO"
+  },
+  {
+    "uf": "DF",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 8.75280773E8,
+    "razaoSocial": "ALLCARE ADMINISTRADORA DE BENEFÍCIOS EM SAÚDE LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 8.71675548E8,
+    "razaoSocial": "ASSOCIAÇÃO POLICIAL DE ASSISTÊNCIA À SAÚDE DE RIBE"
+  },
+  {
+    "uf": "ES",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 8.64630086E8,
+    "razaoSocial": "SANTA CASA DE SAÚDE - SCS"
+  },
+  {
+    "uf": "BA",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 8.50962406E8,
+    "razaoSocial": "CAIXA DE ASSISTÊNCIA DOS EMPREGADOS DO BANEB"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 8.45349133E8,
+    "razaoSocial": "ASSOCIAÇÃO PLANO DE SAÚDE SANTA CASA DE VALINHOS"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 8.44174522E8,
+    "razaoSocial": "CEAM BRASIL - PLANOS DE SAÚDE LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 8.40395351E8,
+    "razaoSocial": "CORPORE ADMINISTRADORA DE BENEFICIOS DA SAUDE LTDA"
+  },
+  {
+    "uf": "ES",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 8.31152414E8,
+    "razaoSocial": "MAIS SAUDE S/A"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 8.31007764E8,
+    "razaoSocial": "UNIMED LEOPOLDINA COOPERATIVA DE TRABALHO MÉDICO L"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 8.24377092E8,
+    "razaoSocial": "UNIBEN ADMINISTRADORA DE BENEFÍCIOS LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 8.20173304E8,
+    "razaoSocial": "ASSOCIAÇÃO SANTA CASA CLÍNICAS DE BIRIGUI"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 8.16245218E8,
+    "razaoSocial": "PLAMER PLANO MEDICO RESENDE LTDA"
+  },
+  {
+    "uf": "GO",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 8.13265336E8,
+    "razaoSocial": "MAIS SAÚDE PLANO DE SAÚDE LTDA"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 8.11087477E8,
+    "razaoSocial": "QV BENEFÍCIOS EM SAÚDE LTDA"
+  },
+  {
+    "uf": "PA",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.9169566E8,
+    "razaoSocial": "UNIODONTO BELÉM - COOPERATIVA DE ASSISTÊNCIA À SAÚ"
+  },
+  {
+    "uf": "GO",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.77982402E8,
+    "razaoSocial": "UNIODONTO GOIANIA COOPERATIVA DE CIRURGIÕES DENTIS"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.71521402E8,
+    "razaoSocial": "PLANO ODONTOLÓGICO DENTALVIDAS LTDA."
+  },
+  {
+    "uf": "ES",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.70903723E8,
+    "razaoSocial": "FUNDACAO CAPITAL PREVIDENCIA E SAUDE - CAPITAL PRE"
+  },
+  {
+    "uf": "GO",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.62756803E8,
+    "razaoSocial": "UNIMED VALE DO CORUMBÁ COOPERATIVA DE TRABALHO MED"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.44400249E8,
+    "razaoSocial": "UNIMED DE PENAPOLIS - COOPERATIVA DE TRABALHO MEDI"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.4163183E8,
+    "razaoSocial": "UNIMED VALE DO CARANGOLA COOPERATIVA DE TRABALHO M"
+  },
+  {
+    "uf": "MT",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.39776387E8,
+    "razaoSocial": "UNIMED CACERES COOPERATIVA DE TRABALHO MÉDICO "
+  },
+  {
+    "uf": "SE",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.34629721E8,
+    "razaoSocial": "CAIXA DE ASSISTÊNCIA DO SINDFISCO - CASSIND"
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.29592639E8,
+    "razaoSocial": "COOPERATIVA DOS USUÁRIOS DE SERVIÇOS DE SAÚDE DO V"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.26873529E8,
+    "razaoSocial": "UNIODONTO PIRACICABA - COOPERATIVA ODONTOLÓGICA"
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.20626436E8,
+    "razaoSocial": "UNIMED ALTO JACUÍ/RS - COOPERATIVA DE ASSISTÊNCIA "
+  },
+  {
+    "uf": "SE",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.18988264E8,
+    "razaoSocial": "ASSOCIAÇÃO DOS EMPREGADOS DA COMPANHIA ESTADUAL DE"
+  },
+  {
+    "uf": "GO",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.16862345E8,
+    "razaoSocial": "ASSOCIAÇÃO GOIANA DO MINISTÉRIO PÚBLICO"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.15138884E8,
+    "razaoSocial": "SOCIEDADE BENEFICENTE DEZOITO DE JULHO"
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.13061324E8,
+    "razaoSocial": "HOSPITAL DE PRONTOCLINICA LTDA."
+  },
+  {
+    "uf": "RN",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.10124275E8,
+    "razaoSocial": "UNIODONTO/RN - COOPERATIVA ODONTOLOGICA DO RIO GRA"
+  },
+  {
+    "uf": "BA",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.09166041E8,
+    "razaoSocial": "ASSOCIACAO DOS PROFESSORES UNIVERSITÁRIOS DA BAHIA"
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.06265533E8,
+    "razaoSocial": "ON MED ASSISTÊNCIA MÉDICA LTDA"
+  },
+  {
+    "uf": "BA",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.05784887E8,
+    "razaoSocial": "UNIX SAÚDE S.A"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.04035035E8,
+    "razaoSocial": "AMEP FREGUESIA OPERADORA DE PLANO DE SAUDE LTDA"
+  },
+  {
+    "uf": "ES",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.02570703E8,
+    "razaoSocial": "MEDIATORIE ADMINISTRADORA DE BENEFÍCIOS S/A"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.99454591E8,
+    "razaoSocial": "SEMPRE ODONTO PLANOS ODONTOLOGICOS LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.98939016E8,
+    "razaoSocial": "ZURICH SANTANDER BRASIL ODONTO LTDA."
+  },
+  {
+    "uf": "GO",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.94172736E8,
+    "razaoSocial": "UNIMED CALDAS NOVAS - COOPERATIVA DE TRABALHO MEDI"
+  },
+  {
+    "uf": "PB",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.85328412E8,
+    "razaoSocial": "UNIMED SOUSA - COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "PA",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.80014901E8,
+    "razaoSocial": "SUL DO PARÁ LTDA"
+  },
+  {
+    "uf": "PI",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.79080014E8,
+    "razaoSocial": "UNIMED REGIONAL DE FLORIANO - COOPERATIVA DE TRABA"
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.77609424E8,
+    "razaoSocial": "FUNDAÇÃO DE ASSISTÊNCIA À SAÚDE DA ASSOCIAÇÃO DO M"
+  },
+  {
+    "uf": "ES",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.76247241E8,
+    "razaoSocial": "TRINO - ALIANCA FILANTRÓPICA DE ASSISTÊNCIA E INTE"
+  },
+  {
+    "uf": "PI",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.73115457E8,
+    "razaoSocial": "UNIMED REGIONAL DE PICOS - COOPERATIVA DE TRABALHO"
+  },
+  {
+    "uf": "ES",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.6199177E8,
+    "razaoSocial": "UP HEALTH ADMINISTRADORA DE BENEFÍCIOS S/A"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.56659166E8,
+    "razaoSocial": "VIDA TOP MAIS SAÚDE OPERADORA DE PLANOS DE SAÚDE L"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.55620729E8,
+    "razaoSocial": "FILOSANITAS SAUDE LTDA"
+  },
+  {
+    "uf": "GO",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.52871598E8,
+    "razaoSocial": "UNIMED MORRINHOS COOPERATIVA DE TRABALHO MEDICO"
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.45721367E8,
+    "razaoSocial": "EVANGELICO SAUDE LTDA."
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.45009115E8,
+    "razaoSocial": "AURORA SAÚDE LTDA"
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.36092604E8,
+    "razaoSocial": "EXTRAMED ADMINISTRAÇÃO E SERVIÇOS MÉDICOS LTDA"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.28639707E8,
+    "razaoSocial": "SV SAUDE ADMINSTRADORES DE PLANO DE SAUDE LTDA"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.15526559E8,
+    "razaoSocial": "ASSOCIAÇÃO DOS AUDITORES FISCAIS DA RECEITA ESTADU"
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.12831203E8,
+    "razaoSocial": "COOPERATIVA DOS USUÁRIOS DE SERVIÇOS DE SAÚDE LTDA"
+  },
+  {
+    "uf": "MS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.00048716E8,
+    "razaoSocial": "UNIMED DE CORUMBA COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "AL",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.92042581E8,
+    "razaoSocial": "UNIODONTO MACEIÓ COOPERATIVA ODONTOLÓGICA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.88766226E8,
+    "razaoSocial": "ASSOCIAÇÃO POLICIAL DE ASSISTÊNCIA À SAÚDE DE ARAÇ"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.79737287E8,
+    "razaoSocial": "PLANO ASSISTENCIAL SÃO LUCAS LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.74164503E8,
+    "razaoSocial": "PORTOMED - PORTO SEGURO SERVIÇOS DE SAUDE LTDA"
+  },
+  {
+    "uf": "ES",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.64821713E8,
+    "razaoSocial": "RIO DOCE SAÚDE"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.627402E8,
+    "razaoSocial": "PESSOAL SAÚDE PLANOS DE ASSISTÊNCIA MÉDICA LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.59061569E8,
+    "razaoSocial": "UNIODONTO DO BRASIL CENTRAL NACIONAL DAS COOPERATI"
+  },
+  {
+    "uf": "PB",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.57485996E8,
+    "razaoSocial": "UNIDENTIS ASSISTENCIA ODONTOLOGICA LTDA."
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.52803215E8,
+    "razaoSocial": "ASSOCIAÇÃO POLICIAL DE ASSISTÊNCIA À SAÚDE DE PRES"
+  },
+  {
+    "uf": "RO",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.49931948E8,
+    "razaoSocial": "AME VVIDA PLANOS DE SAUDE INTEGRADO LTDA."
+  },
+  {
+    "uf": "PI",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.47504732E8,
+    "razaoSocial": "RESOLVE ADMINISTRADORA DE BENEFÍCIOS LTDA"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.46533683E8,
+    "razaoSocial": "FUNDAÇÃO PLAMHUV - PLANO MÉDICO HOSPITALAR DOS HOS"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.44785746E8,
+    "razaoSocial": "UNIMED CAMPO BELO- COOPERATIVA DE TRABALHO MÉDICO"
+  },
+  {
+    "uf": "CE",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.44376088E8,
+    "razaoSocial": "ODONTOART PLANOS ODONTOLÓGICOS LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.2645952E8,
+    "razaoSocial": "VIDAMAX ADMINISTRADORA DE BENEFÍCIOS LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.06556298E8,
+    "razaoSocial": "TECBEN ADMINISTRADORA DE BENEFICIOS LTDA."
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.03928899E8,
+    "razaoSocial": "UNIMED SÃO JOÃO NEPOMUCENO COOPERATIVA DE TRABALHO"
+  },
+  {
+    "uf": "PB",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.97774306E8,
+    "razaoSocial": "FUNASA SAÚDE"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.97405433E8,
+    "razaoSocial": "UNICONSULT - ADMINISTRADORA DE BENEFICIOS E SERVIC"
+  },
+  {
+    "uf": "PB",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.87562196E8,
+    "razaoSocial": "UNIODONTO DE JOÃO PESSOA COOPERATIVA ODONTOLÓGICA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.84274967E8,
+    "razaoSocial": "UNIODONTO PAULISTA-FEDERAÇÃO DAS COOPERATIVAS ODON"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.81484364E8,
+    "razaoSocial": "UNIMED PONTE NOVA COOPERATIVA DE TRABALHO MEDICO L"
+  },
+  {
+    "uf": "PB",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.75631059E8,
+    "razaoSocial": "CENTRAL OPERADORA DE PLANOS DE SAÚDE NORTE-NORDEST"
+  },
+  {
+    "uf": "DF",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.73196184E8,
+    "razaoSocial": "ODONTOGROUP SISTEMA DE SAÚDE LTDA."
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.66396951E8,
+    "razaoSocial": "PRIMA VIDA ODONTOLOGIA DE GRUPO LIMITADA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.57635753E8,
+    "razaoSocial": "ASSOCIAÇÃO VALEPARAIBANA DE ASSISTÊNCIA MÉDICA POL"
+  },
+  {
+    "uf": "AL",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.5348743E8,
+    "razaoSocial": "ASSOCIAÇÃO DO FISCO DE ALAGOAS"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.49620433E8,
+    "razaoSocial": "AME-ASSISTÊNCIA MÉDICA A EMPRESAS LTDA"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.4336252E8,
+    "razaoSocial": "SAMIG - SERV. DE ASSISTENCIA MEDICA DA ILHA DO GOV"
+  },
+  {
+    "uf": "GO",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.40249603E8,
+    "razaoSocial": "UNIODONTO DO SUL GOIANO COOPERATIVA ODONTOLOGICA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.39888505E8,
+    "razaoSocial": "XP ADMINISTRADORA DE BENEFÍCIOS LTDA."
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.31765071E8,
+    "razaoSocial": "R.M.I. OPERADORA DE SAÚDE INTEGRADA LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.2788384E8,
+    "razaoSocial": "LANCERS ADMINISTRADORA DE BENEFÍCIOS DE SAÚDE LTDA"
+  },
+  {
+    "uf": "BA",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.27414016E8,
+    "razaoSocial": "ATITUDE SAÚDE ASSISTÊNCIA MEDICA LTDA"
+  },
+  {
+    "uf": "AM",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.27077523E8,
+    "razaoSocial": "ASSOCIAÇÃO DOS FUNCIONÁRIOS FISCAIS DO ESTADO DO A"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.23721483E8,
+    "razaoSocial": "UNIVIDA USA OPERADORA EM SAUDE S/A"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.13149445E8,
+    "razaoSocial": "MEDGOLD ASSISTENCIA MEDICA LTDA - ME"
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.11092435E8,
+    "razaoSocial": "ASSOCIAÇÃO SAÚDE RURAL ALEGRETE"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.03639859E8,
+    "razaoSocial": "DENTALPAR ASSISTÊNCIA ODONTOLÓGICA EMPRESARIAL LTD"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.94982323E8,
+    "razaoSocial": "OPLAN SAÚDE OPERADORA DE PLANO DE SAÚDE LTDA"
+  },
+  {
+    "uf": "SE",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.91371747E8,
+    "razaoSocial": "SERVDONTO - PLANO DE ASSISTÊNCIA ODONTOLÓGICA LTDA"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.89171594E8,
+    "razaoSocial": "CAIXA ASSISTENCIAL UNIVERSITARIA DO RIO DE JANEIRO"
+  },
+  {
+    "uf": "DF",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.67888504E8,
+    "razaoSocial": "PLATINUM ADMINISTRADORA DE BENEFICIOS"
+  },
+  {
+    "uf": "BA",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.58651358E8,
+    "razaoSocial": "ORALE ASSISTÊNCIA ODONTOLÓGICA LTDA"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.58398814E8,
+    "razaoSocial": "CAMIM OPERADORA DE PLANO DE SAÚDE LTDA"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.5028616E8,
+    "razaoSocial": "CONFIANÇA ASSISTÊNCIA MÉDICO HOSPITALAR LTDA"
+  },
+  {
+    "uf": "AM",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.47028432E8,
+    "razaoSocial": "UNIODONTO DE MANAUS - COOPERATIVA ODONTOLÓGICA LTD"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.45728974E8,
+    "razaoSocial": "SD-M OPERADORA DE PLANOS DE SAUDE LTDA"
+  },
+  {
+    "uf": "MS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.44937399E8,
+    "razaoSocial": "FUNDO DE ASSISTÊNCIA MÉDICO-HOSPITALAR DO MINISTÉR"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.4344893E8,
+    "razaoSocial": "AESP ODONTO ASSISTÊNCIA ODONTOLÓGICA S/S LTDA EPP"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.41207824E8,
+    "razaoSocial": "UNIODONTO DE JUNDIAÍ COOPERATIVA ODONTOLÓGICA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.38278146E8,
+    "razaoSocial": "SISTEMA TOTAL DE SAÚDE LTDA."
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.30739072E8,
+    "razaoSocial": "ASSOCIACAO DE SAUDE HOLAMBRA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.27500543E8,
+    "razaoSocial": "ASSOCIACAO POLICIAL DE ASSISTENCIA A SAUDE DE ITAP"
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.2032554E8,
+    "razaoSocial": "ASSOCIAÇÃO DOS FISCAIS DE TRIBUTOS ESTADUAIS DO RS"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.17956052E8,
+    "razaoSocial": "SEPACO SAÚDE LTDA"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.07127107E8,
+    "razaoSocial": "UNIODONTO UBERABA - COOPERATIVA DE ASSISTÊNCIA À S"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.01616052E8,
+    "razaoSocial": "TELOS - FUNDAÇÃO EMBRATEL DE SEGURIDADE SOCIAL"
+  },
+  {
+    "uf": "DF",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.97674358E8,
+    "razaoSocial": "S1 OPERADORA DE PLANO DE SAÚDE LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.93840355E8,
+    "razaoSocial": "UNIODONTO DE AMERICANA COOPERATIVA ODONTOLÓGICA"
+  },
+  {
+    "uf": "PB",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.87814713E8,
+    "razaoSocial": "UNIMED CAJAZEIRAS - SOCIEDADE COOPERATIVA DE TRABA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.86805241E8,
+    "razaoSocial": "UNIODONTO DE SOROCABA COOPERATIVA ODONTOLÓGICA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.84574722E8,
+    "razaoSocial": "PRONTO SOCORRO CONDE DE MOREIRA LIMA"
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.82778543E8,
+    "razaoSocial": "CAIXA BENEFICENTE DOS FUNCIONÁRIOS DO GRUPO IGUAÇU"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.81084051E8,
+    "razaoSocial": "TOTAL ASSISTÊNCIA MÉDICA HOSPITALAR LTDA"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.75146061E8,
+    "razaoSocial": "CEDPLAN SAÚDE LTDA EPP"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.71949915E8,
+    "razaoSocial": "MUITO MAIS SAÚDE ADMINISTRADORA DE BENEFÍCIOS"
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.66125783E8,
+    "razaoSocial": "ANGELI SISTEMAS DE SAUDE S.A."
+  },
+  {
+    "uf": "SC",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.65931845E8,
+    "razaoSocial": "CAIXA DE ASSISTÊNCIA À SAÚDE DOS TRABALHADORES NAS"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.65481994E8,
+    "razaoSocial": "UNIMED VALE DO PARAÍBA - FEDERAÇÃO INTRAFEDERATIVA"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.65450659E8,
+    "razaoSocial": "MEDIC GLOBAL PLANOS DE SAÚDE LTDA."
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.59928838E8,
+    "razaoSocial": "CARING SAÚDE ASSISTÊNCIA MÉDICA LTDA."
+  },
+  {
+    "uf": "ES",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.5863972E8,
+    "razaoSocial": "BLUZZ SAÚDE S/A"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.50783155E8,
+    "razaoSocial": "VOCÊ CLUBE DE BENEFÍCIOS SOCIAIS, SAÚDE E ODONTOLÓ"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.41409227E8,
+    "razaoSocial": "ASSOCIAÇÃO PADRE PIO PLANOS DE SAÚDE"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.39933966E8,
+    "razaoSocial": "UNIODONTO DE ARARAQUARA COOPERATIVA ODONTOLÓGICA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.37626406E8,
+    "razaoSocial": "VOCÊ TOTAL PLANOS DE SAÚDE LIMITADA"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.37098691E8,
+    "razaoSocial": "UNIMED VALE DO URUCUIA - COOPERATIVA DE TRABALHO M"
+  },
+  {
+    "uf": "DF",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.33680119E8,
+    "razaoSocial": "SERVIX ADMINISTRADORA DE BENEFÍCIOS LTDA"
+  },
+  {
+    "uf": "CE",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.31405551E8,
+    "razaoSocial": "FUNDO DE ASSISTÊNCIA À SAÚDE DOS FUNCIONÁRIOS DO B"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.30618128E8,
+    "razaoSocial": "DONA SAÚDE CLINICAS LTDA "
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.29796087E8,
+    "razaoSocial": "NOSAMED ASSISTÊNCIA MÉDICA LTDA."
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.28601141E8,
+    "razaoSocial": "ASSOCIAÇÃO UNIVIDA SANTA RITA DO PASSA QUATRO"
+  },
+  {
+    "uf": "DF",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.27763661E8,
+    "razaoSocial": "PLENUM ASSISTENCIA MEDICA  LTDA"
+  },
+  {
+    "uf": "PB",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.27092627E8,
+    "razaoSocial": "DENTAL CENTER LTDA"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.25597551E8,
+    "razaoSocial": "PLAMESC PLANOS DE SAÚDE LTDA"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.23325947E8,
+    "razaoSocial": "ASSOCIAÇÃO SERVIÇOS ODONTOLÓGICOS DA INDÚSTRIA DE "
+  },
+  {
+    "uf": "PB",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.21719804E8,
+    "razaoSocial": "DENTAL GOLD ASSISTÊNCIA ODONTOLÓGICA LTDA."
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.21099302E8,
+    "razaoSocial": "ODONT-OPERADORA ODONTOLOGICA LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.10766378E8,
+    "razaoSocial": "UNIODONTO VALE HISTORICO COOPERATIVA ODONTOLOGICA"
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.10274946E8,
+    "razaoSocial": "UNIODONTO MARINGA COOPERATIVA ODONTOLOGICA"
+  },
+  {
+    "uf": "PB",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.09750308E8,
+    "razaoSocial": "COMSEDER - COOPERATIVA DE ASSISTÊNCIA MÉDICA DOS S"
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.05745675E8,
+    "razaoSocial": "SOCIEDADE DE ASSISTÊNCIA MÉDICA - SAMEISA"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.04555565E8,
+    "razaoSocial": "PLANO DE ASSISTÊNCIA MÉDICA MINEIRA LTDA"
+  },
+  {
+    "uf": "SE",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.04420215E8,
+    "razaoSocial": "PLANO VIDA SAUDE SERVIÇOS ODONTOLOGICOS LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.03777485E8,
+    "razaoSocial": "ASSOCIAÇÃO POLICIAL DE ASSISTÊNCIA À SAÚDE DE BARR"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.00711806E8,
+    "razaoSocial": "COOPERATIVA ODONTOLÓGICA POÇOS DE CALDAS"
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.97351664E8,
+    "razaoSocial": "UNIODONTO DE LONDRINA COOP. ODONTOLÓGICA"
+  },
+  {
+    "uf": "AP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.9716274E8,
+    "razaoSocial": "COOPERATIVA ODONTOLÓGICA DO ESTADO DO AMAPÁ"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.96888931E8,
+    "razaoSocial": "HSMED SAUDE LTDA"
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.95075362E8,
+    "razaoSocial": "HOSPITAL S.P. LTDA."
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.9291789E8,
+    "razaoSocial": "ASSOCIAÇÃO POLICIAL DE ASSISTENCIA À SAUDE DE SAO "
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.91469779E8,
+    "razaoSocial": "ÔNIX OPERADORA DE PLANOS DE SAÚDE LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.86759991E8,
+    "razaoSocial": "ASSOCIAÇÃO HOSPITAL SAÚDE DE VARGEM GRANDE DO SUL"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.84168645E8,
+    "razaoSocial": "UNIODONTO DE PRESIDENTE PRUDENTE COOPERATIVA ODONT"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.82749546E8,
+    "razaoSocial": "DENTAL PLUS CONVÊNIO ODONTOLÓGICO LTDA."
+  },
+  {
+    "uf": "ES",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.79926278E8,
+    "razaoSocial": "UNIODONTO ESPIRITO SANTO COOPERATIVA ODONTOLOGICA"
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.76209138E8,
+    "razaoSocial": "MEDHEALTH PLANOS DE SAÚDE LTDA"
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.72857556E8,
+    "razaoSocial": "ASSOCIACAO CIVIL PRÓ-SAÚDE DOS SERVIDORES DA UNIVE"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.7239187E8,
+    "razaoSocial": "RODRIGUES LEIRA ODONTOLOGIA LTDA."
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.7153466E8,
+    "razaoSocial": "UNIODONTO RS FEDERACAO DAS UNIODONTOS DO RGS LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.7141725E8,
+    "razaoSocial": "ASSOCIAÇÃO POLICIAL DE ASSISTÊNCIA À SAÚDE DE JAÚ"
+  },
+  {
+    "uf": "AL",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.68697172E8,
+    "razaoSocial": "DENTAL MASTER LTDA - EPP"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.68696778E8,
+    "razaoSocial": "PD BRASIL ASSISTENCIA ODONTOLOGICA LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.68434225E8,
+    "razaoSocial": "UNIODONTO JACAREÍ COOPERATIVA ODONTOLÓGICA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.61401166E8,
+    "razaoSocial": "ODONTOLIVE OPERADORA DE PLANOS ODONTOLÓGICOS LTDA."
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.60593735E8,
+    "razaoSocial": "SALUPLAN ADMINISTRADORA DE BENEFÍCIOS LTDA"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.59764389E8,
+    "razaoSocial": "REAL GRANDEZA SAÚDE"
+  },
+  {
+    "uf": "ES",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.57744448E8,
+    "razaoSocial": "EXCELÊNCIA PLANO DE SAÚDE S/A"
+  },
+  {
+    "uf": "MT",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.56498332E8,
+    "razaoSocial": "UNIODONTO DE MATO GROSSO COOP TRAB ODONTOLOGICO LT"
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.46555867E8,
+    "razaoSocial": "NOVODENTE S/A"
+  },
+  {
+    "uf": "RO",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.46045506E8,
+    "razaoSocial": "INNOVA PLANO DE SAUDE LTDA"
+  },
+  {
+    "uf": "PE",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.4575252E8,
+    "razaoSocial": "VALE PLANOS DE SAÚDE LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.43798941E8,
+    "razaoSocial": "LIVRI OPERADORA DE PLANO DE SAÚDE LTDA"
+  },
+  {
+    "uf": "PA",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.41950098E8,
+    "razaoSocial": "ASSOCIAÇÃO DOS SERVIDORES PÚBLICOS DA ADMINISTRAÇÃ"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.41374331E8,
+    "razaoSocial": "BENEFIT ADMINISTRADORA DE BENEFÍCIOS LTDA."
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.41327826E8,
+    "razaoSocial": "ASSOCIAÇÃO POLICIAL DE ASSISTÊNCIA À SAÚDE DE DRAC"
+  },
+  {
+    "uf": "CE",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.38890391E8,
+    "razaoSocial": "CASA DE SAÚDE NOSSA SENHORA DE FÁTIMA  LTDA."
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.36680586E8,
+    "razaoSocial": "ASSOCIAÇÃO POLICIAL DE ASSISTÊNCIA À SAÚDE APAS"
+  },
+  {
+    "uf": "BA",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.36465394E8,
+    "razaoSocial": "PLANO DE ASSISTÊNCIA ODONTOLÓGICA FAUCHARD LTDA. M"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.35331896E8,
+    "razaoSocial": "MH VIDA - OPERADORA DE PLANOS DE SAÚDE LTDA"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.33724669E8,
+    "razaoSocial": "QUALITY GOLD SAÚDE ADMINISTRADORA DE PLANOS DE SAÚ"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.33061338E8,
+    "razaoSocial": "BCI ADMINISTRADORA DE BENEFÍCIOS LTDA."
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.32342072E8,
+    "razaoSocial": "A.P.S. ADMINISTRADORA DE BENEFÍCOS LTDA."
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.29942702E8,
+    "razaoSocial": "ASSOCIAÇÃO POLICIAL DE ASSISTENCIA A SAUDE DE BOTU"
+  },
+  {
+    "uf": "PB",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.28590204E8,
+    "razaoSocial": "UNIMED PARAIBA - FEDERAÇAO DAS SOCIEDADES COOPERAT"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.27143087E8,
+    "razaoSocial": "COOPERATIVA DE TRABALHO ODONTOLOGICO - UNIODONTO I"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.27060318E8,
+    "razaoSocial": "UNIODONTO DE SERTAOZINHO SP COOPERATIVA ODONTOLOGI"
+  },
+  {
+    "uf": "GO",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.25366895E8,
+    "razaoSocial": "CAIXA DE ASSISTÊNCIA DOS EMPREGADOS DO SETOR PÚBLI"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.25036194E8,
+    "razaoSocial": "SALUSMED OPERADORA DE PLANOS DE SAUDE LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.24831866E8,
+    "razaoSocial": "SORRIDEN CONVÊNIOS ODONTOLÓGICOS S.A."
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.21753447E8,
+    "razaoSocial": "HEALTH-MED SISTEMA DE SAUDE LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.19065436E8,
+    "razaoSocial": "CROWN ODONTOLOGIA DE GRUPO LTDA"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.17834571E8,
+    "razaoSocial": "EVOLUÇÃO ADMINISTRADORA DE BENEFICIOS LTDA "
+  },
+  {
+    "uf": "SE",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.17628629E8,
+    "razaoSocial": "ASSOCIACAO DOS SERVIDORES DA EMDAGRO - ASSEM"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.17493261E8,
+    "razaoSocial": "BIORAL SISTEMA ODONTOLÓGICO LTDA."
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.17253352E8,
+    "razaoSocial": "PLURICLUB ADMINISTRADORA DE BENEFÍCIOS LTDA."
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.149895E8,
+    "razaoSocial": "ODILE SERVIÇOS DE SAÚDE LTDA."
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.14279341E8,
+    "razaoSocial": "MAXMED ADMINISTRADORA DE BENEFICIOS LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.11151755E8,
+    "razaoSocial": "ARL ADMINISTRADORA DE BENEFÍCIOS LTDA."
+  },
+  {
+    "uf": "BA",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.10487083E8,
+    "razaoSocial": "QUALIDONTO - QUALIDADE EM ODONTOLOGIA LTDA "
+  },
+  {
+    "uf": "PA",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.09665799E8,
+    "razaoSocial": "PORTO DIAS SAUDE LTDA."
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.01575035E8,
+    "razaoSocial": "ASSOCIAÇÃO POLICIAL DE ASSISTÊNCIA À SAÚDE - VALE "
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 9.9337376E7,
+    "razaoSocial": "UNIODONTO DE PINDAMONHANGABA COOP ODONTOLOGICA"
+  },
+  {
+    "uf": "MT",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 9.7741207E7,
+    "razaoSocial": "INFINITY SAÚDE SUPLEMENTAR LTDA"
+  },
+  {
+    "uf": "CE",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 9.6293141E7,
+    "razaoSocial": "SISTEMA PREVSAUDE DENTAL LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 9.6053828E7,
+    "razaoSocial": "INTERCLINICAS PLANO VIDA USA OPERADORA DE SAUDE LT"
+  },
+  {
+    "uf": "PE",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 9.5224822E7,
+    "razaoSocial": "ASSOC DE ASSIST À SAÚDE DOS SERV DAS UNIV E INST F"
+  },
+  {
+    "uf": "BA",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 9.4088987E7,
+    "razaoSocial": "PRESERVE SAUDE ASSISTENCIA MEDICA LTDA"
+  },
+  {
+    "uf": "CE",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 9.0321936E7,
+    "razaoSocial": "ODONTO PRIME S/S LTDA"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 8.5790949E7,
+    "razaoSocial": "SAUDIA ASSISTENCIA MÉDICA LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 8.5347696E7,
+    "razaoSocial": "CENTRO DE ENDOCRINOLOGIA DE JUNDIAÍ S/S LTDA"
+  },
+  {
+    "uf": "DF",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 8.126483E7,
+    "razaoSocial": "EVO SAUDE ASSISTENCIA MEDICA LTDA"
+  },
+  {
+    "uf": "MA",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.7022679E7,
+    "razaoSocial": "SAME-SERVIÇO DE ASSISTÊNCIA MÉDICA EMPRESARIAL LTD"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.5483152E7,
+    "razaoSocial": "UNICOR ADMINISTRADORA DE BENEFICIOS LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7.1082723E7,
+    "razaoSocial": "ALMA ODONTO OPERADORA DE PLANOS ODONTOLOGICOS LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.880296E7,
+    "razaoSocial": "PREVENT SENIOR CORPORATE OPERADORA DE SAÚDE LTDA."
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.6445828E7,
+    "razaoSocial": "UNIMED ALTO PARANAIBA COOPERATIVA DE TRABALHO MEDI"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.4117091E7,
+    "razaoSocial": "PLAMEDH - PLANO DE ASSISTÊNCIA MÉDICO-HOSPITALAR L"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.3167921E7,
+    "razaoSocial": "ASSISTÊNCIA MÉDICA 12 DE OUTUBRO LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.2974514E7,
+    "razaoSocial": "PLANO SIGMA SAÚDE LTDA"
+  },
+  {
+    "uf": "RN",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6.0505948E7,
+    "razaoSocial": "VIVER SAUDE LTDA"
+  },
+  {
+    "uf": "RS",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.8441948E7,
+    "razaoSocial": "POLIMÉDICA SAÚDE SOCIEDADE SIMPLES LTDA"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.7477734E7,
+    "razaoSocial": "CASE - CENTRAL DE ADMINISTRAÇÃO DE PLANO DE SAÚDE "
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.6556726E7,
+    "razaoSocial": "AMPLITUDE PLANOS DE SAUDE LTDA "
+  },
+  {
+    "uf": "PE",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5.2057778E7,
+    "razaoSocial": "AIRES OPERADORA DE SAUDE LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.959E7,
+    "razaoSocial": "UNIC ASSISTENCIA MEDICA LTDA"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.8735331E7,
+    "razaoSocial": "G \u0026 M ASSESSORIA MEDICA EMPRESARIAL LTDA"
+  },
+  {
+    "uf": "PE",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.804352E7,
+    "razaoSocial": "FOX SAÚDE ASSISTÊNCIA MÉDICA INTEGRADA LTDA"
+  },
+  {
+    "uf": "TO",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4.6408292E7,
+    "razaoSocial": "BRASIL ODONTO OPERADORA DE PLANOS ODONTOLÓGICOS LT"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.6770039E7,
+    "razaoSocial": "CLÍNICA SÃO GABRIEL S/S LTDA"
+  },
+  {
+    "uf": "GO",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.5494216E7,
+    "razaoSocial": "NOVAMED PLANOS DE SAUDE LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.4850191E7,
+    "razaoSocial": "LEXUS ADMINISTRADORA DE BENEFICIOS LTDA"
+  },
+  {
+    "uf": "ES",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.4604048E7,
+    "razaoSocial": "EGRÉGORA  ADMINISTRADORA DE BENEFICIOS S/A"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.3991983E7,
+    "razaoSocial": "SAGRADA SAÚDE ASSISTÊNCIA MÉDICA LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.3569807E7,
+    "razaoSocial": "NEXO - ADMINISTRADORA DE BENEFICIOS LTDA"
+  },
+  {
+    "uf": "DF",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.1890449E7,
+    "razaoSocial": "FEBRAFITE SAUDE"
+  },
+  {
+    "uf": "DF",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.1597457E7,
+    "razaoSocial": "ESPLENDOR ADMINISTRADORA DE BENEFÍCIOS LTDA."
+  },
+  {
+    "uf": "BA",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3.1180266E7,
+    "razaoSocial": "BEMSTAR ASSISTENCIA MEDICA LTDA"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.9005904E7,
+    "razaoSocial": "VCT PLANOS DE SAUDE LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.739488E7,
+    "razaoSocial": "LIFE CLASS ADMINISTRADORA DE BENEFICIOS LTDA."
+  },
+  {
+    "uf": "RO",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.6954227E7,
+    "razaoSocial": "SAUDE SALV ASSISTENCIA MEDICA LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.5613734E7,
+    "razaoSocial": "AP ADMINISTRAÇÃO DE BENEFICIOS - SOCIEDADE SIMPLES"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.3728397E7,
+    "razaoSocial": "PLAMEDH PLANOS DE SAÚDE LTDA"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.0805152E7,
+    "razaoSocial": "ESPERANÇA OPERADORA DE PLANOS DE SAÚDE LTDA"
+  },
+  {
+    "uf": "PE",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.080352E7,
+    "razaoSocial": "UNIÃO HOSPITAIS DE PERNAMBUCO LTDA"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.0801976E7,
+    "razaoSocial": "SAUDE FACIL PLANOS DE SAUDE LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.0212009E7,
+    "razaoSocial": "ATIMED ASSISTENCIA MEDICA LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 2.0129357E7,
+    "razaoSocial": "ELITE SAUDE SERVICOS MEDICOS LTDA."
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.9356293E7,
+    "razaoSocial": "HEALTH ADMINISTRADORA DE BENEFICIOS LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.6926195E7,
+    "razaoSocial": "VITTA SAUDE ADMINISTRADORA DE BENEFICIOS LTDA."
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.4948381E7,
+    "razaoSocial": "CLICSAUDE ADMINISTRADORA DE BENEFICIOS LTDA"
+  },
+  {
+    "uf": "ES",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.2213326E7,
+    "razaoSocial": "SANUS ADMINISTRADORA DE BENEFÍCIOS LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.1360664E7,
+    "razaoSocial": "BIT LIFE BENEFÍCIOS LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 1.1232869E7,
+    "razaoSocial": "GESTAO VIDA ADMINISTRADORA DE BENEFICIOS LTDA."
+  },
+  {
+    "uf": "BA",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 9600096.0,
+    "razaoSocial": "VITACARE PLANOS DE SAUDE LTDA"
+  },
+  {
+    "uf": "BA",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 9440272.0,
+    "razaoSocial": "MEDICAL LIFE PLANOS DE SAÚDE LTDA"
+  },
+  {
+    "uf": "BA",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 9074564.0,
+    "razaoSocial": "SAUDE INTEGRAL ASSISTENCIA MEDICA LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 8775811.0,
+    "razaoSocial": "INTERVIDA ADMINISTRADORA DE BENEFÍCIOS LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7148700.0,
+    "razaoSocial": "PRO-SAUDE JARINU ASSISTENCIA MEDICA SUPLEMENTAR LT"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 7103224.0,
+    "razaoSocial": "SAUDE VIVA ADMINISTRADORA DE BENEFICIOS LTDA"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6861275.0,
+    "razaoSocial": "SALVE SAÚDE ADMINISTRADORA DE BENEFÍCIOS LTDA"
+  },
+  {
+    "uf": "GO",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6698567.0,
+    "razaoSocial": "INTEGRA ADMINISTRADORA DE BENEFICIOS LTDA"
+  },
+  {
+    "uf": "BA",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 6400560.0,
+    "razaoSocial": "INTEGRALCARE PLANOS DE SAUDE LTDA"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5940915.0,
+    "razaoSocial": "BEDOIS SERVIÇOS DE ADMINISTRAÇÃO DE BENEFÍCIOS LTD"
+  },
+  {
+    "uf": "ES",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5181623.0,
+    "razaoSocial": "TOTAL SAUDE  ADMINISTRADORA DE BENEFICIOS EIRELI"
+  },
+  {
+    "uf": "MG",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 5135977.0,
+    "razaoSocial": "SOCIODONTO PLANO DE ASSISTÊNCIA ODONTOLÓGICA LTDA"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 4057237.0,
+    "razaoSocial": "SALUTY ADMINISTRADORA DE BENEFICIOS LTDA"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3589046.0,
+    "razaoSocial": "VIVER BEM ADMINISTRADORA DE BENEFÍCIOS LTDA"
+  },
+  {
+    "uf": "PR",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3332080.0,
+    "razaoSocial": "LIKE DENTAL PLANOS ODONTOLÓGICOS SS LTDA"
+  },
+  {
+    "uf": "RJ",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 3126884.0,
+    "razaoSocial": "AMAZIL ASSISTENCIA MEDICA DO BRASIL LTDA"
+  },
+  {
+    "uf": "SP",
+    "ano": 2025,
+    "trimestre": 3,
+    "totalGasto": 25.0,
+    "razaoSocial": "RAMED ADMINISTRADORA DE BENEFICIOS LTDA."
+  }
+]

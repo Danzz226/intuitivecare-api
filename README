@@ -1,0 +1,205 @@
+
+# 📄 README — Teste Técnico Estágio IntuitiveCare
+
+## 📌 Visão Geral
+
+Este projeto foi desenvolvido como parte do teste técnico para a vaga de Estágio na IntuitiveCare. O objetivo foi realizar a ingestão, transformação, análise e disponibilização de dados públicos da ANS (Agência Nacional de Saúde Suplementar), utilizando banco de dados relacional, consultas SQL com JOIN, e uma API REST para exposição dos resultados.
+
+O projeto foi construído com foco em:
+
+* Clareza de código
+* Organização
+* Boas práticas
+* Segurança (uso de `.env`)
+* Escalabilidade
+
+---
+
+## 🧰 Tecnologias Utilizadas
+
+* **Java 21**
+* **Spring Boot** (API REST)
+* **MariaDB / MySQL**
+* **Maven**
+* **Gson** (serialização JSON)
+* **dotenv-java** (gerenciamento de variáveis de ambiente)
+* **SQL** (JOIN, agregações, filtros)
+
+---
+
+## 🗄️ Estrutura do Projeto
+
+```text
+src/main/java/br/com/intuitivecare
+├── app          → Execução local (modo console)
+├── config       → Conexão com banco (.env)
+├── controller   → Endpoints da API
+├── dao          → Acesso ao banco de dados (SQL)
+├── model        → DTOs
+├── service      → Regras de negócio
+└── IntuitivecareApiApplication → Classe principal da API
+```
+
+---
+
+## 🧱 Modelagem do Banco de Dados
+
+Foram criadas as seguintes tabelas:
+
+* `Dados_Operadoras`
+* `Despesas_Consolidadas`
+* `Despesas_Raw`
+* `Dados_Agregados`
+
+### Decisões técnicas:
+
+* Uso de `DECIMAL(15,2)` para valores financeiros, garantindo precisão.
+* Uso de chaves primárias e estrangeiras.
+* Normalização das tabelas para facilitar JOINs e agregações.
+* Criação de índices para melhorar performance nas consultas.
+
+---
+
+## 📥 Coleta e Importação de Dados
+
+Os dados foram obtidos diretamente do portal de dados abertos da ANS. Durante o processo:
+
+* Foi necessário navegar por uma estrutura complexa de pastas.
+* Alguns arquivos não possuíam cabeçalho.
+* Alguns formatos exigiram tratamento manual.
+* Foi necessário identificar quais arquivos realmente continham os dados relevantes.
+
+Após a identificação correta, os dados foram importados para o banco, totalizando mais de **700 mil registros**.
+
+---
+
+## 🔄 Transformação e Enriquecimento dos Dados
+
+Foi realizada a consolidação dos dados por meio de consultas SQL com JOIN entre:
+
+* Dados cadastrais das operadoras
+* Dados financeiros consolidados
+
+Consulta principal utilizada:
+
+```sql
+SELECT
+    op.Razao_Social,
+    op.UF,
+    dc.Ano,
+    dc.Trimestre,
+    SUM(dc.Valor_Empresa) AS Total_Gasto
+FROM Despesas_Consolidadas dc
+JOIN Dados_Operadoras op
+    ON dc.Operadora_ID = op.ID
+GROUP BY op.Razao_Social, op.UF, dc.Ano, dc.Trimestre
+ORDER BY Total_Gasto DESC;
+```
+
+---
+
+## 🌐 API REST
+
+Foi desenvolvida uma API REST com Spring Boot para disponibilizar os dados processados.
+
+### Endpoint disponível:
+
+```http
+GET /relatorio
+```
+
+### Retorno:
+
+* JSON contendo:
+
+  * Razão social
+  * UF
+  * Ano
+  * Trimestre
+  * Total gasto
+
+---
+
+## 📤 Exportação de Dados
+
+Além da API, o projeto permite exportar o relatório para arquivo JSON, utilizando Gson.
+
+---
+
+## 🔐 Segurança
+
+As credenciais do banco não estão hardcoded no código.
+
+Foi utilizado um arquivo `.env` com:
+
+* URL do banco
+* Usuário
+* Senha
+
+Essa abordagem garante:
+
+* Segurança
+* Portabilidade
+* Boas práticas de desenvolvimento
+
+---
+
+## ⚠️ Dificuldades Enfrentadas
+
+* Nunca havia trabalhado com JOIN em um grande volume de dados antes, o que exigiu estudo e prática.
+* A estrutura dos dados da ANS é extensa e pouco intuitiva, o que tornou a identificação dos arquivos relevantes um desafio.
+* A ausência de cabeçalhos em alguns arquivos exigiu maior cuidado na interpretação dos dados.
+* Durante o desenvolvimento da API, enfrentei conflitos de configuração e mapeamento de pacotes, que foram resolvidos com estudo da documentação do Spring Boot.
+
+---
+
+## 🚀 Diferenciais Implementados
+
+* Uso de API REST (mesmo sendo opcional).
+* Uso de `.env` para segurança.
+* Arquitetura em camadas (Controller, Service, DAO, DTO).
+* Organização de código e separação de responsabilidades.
+* Uso de dados reais e em grande volume.
+
+---
+
+## ▶️ Como Executar o Projeto
+
+### 1️⃣ Banco de dados
+
+* Criar banco no MariaDB/MySQL.
+* Importar os CSVs conforme documentação.
+
+### 2️⃣ Variáveis de ambiente
+
+Criar arquivo `.env` na raiz do projeto:
+
+```env
+DB_URL=jdbc:mariadb://localhost:3306/intuitivecare_teste
+DB_USER=root
+DB_PASSWORD=sua_senha_aqui
+```
+
+### 3️⃣ Rodar a API
+
+Executar:
+
+```java
+IntuitivecareApiApplication
+```
+
+Acessar:
+
+```
+http://localhost:8080/relatorio
+```
+
+---
+
+## 📌 Considerações Finais
+
+Este projeto foi desenvolvido com foco em aprendizado, qualidade de código e boas práticas. Ao longo do processo, foi necessário pesquisar, estudar documentação oficial e adaptar soluções, o que contribuiu significativamente para o crescimento técnico.
+
+---
+
+
